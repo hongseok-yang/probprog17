@@ -66,5 +66,5 @@ We will schedule three additional lectures. Here is our current plan:
 * __**11/30 (Thu)**__ - Project presentation 1
 * 12/04 (Mon) - Project presentation 2
 * 12/06 (Wed) - Conclusion
-* 12/11 (Mon) - **No lecture** (final exam)
-* 12/13 (Wed) - **No lecture** (final exam)
+* 12/11 (Mon) - **NO LECTURE**
+* 12/13 (Wed) - **NO LECTURE**
