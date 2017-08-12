@@ -35,8 +35,8 @@ We will schedule three additional lectures. Here is our current plan:
 
 * 08/28 (Mon) - Introduction of probabilistic programming languages (PPLs)
 * 08/30 (Wed) - Developing and reasoning about probabilistic models using PPL 1
-* 09/04 (Mon) - **No lecture** (business trip)
-* 09/06 (Wed) - **No lecture** (business trip)
+* 09/04 (Mon) - **NO LECTURE** 
+* 09/06 (Wed) - **NO LECTURE**
 * 09/11 (Mon) - Developing and reasoning about probabilistic models using PPL 2
 * 09/13 (Wed) - Developing and reasoning about probabilistic models using PPL 3
 * 09/18 (Mon) - Developing and reasoning about probabilistic models using PPL 4
@@ -46,11 +46,11 @@ We will schedule three additional lectures. Here is our current plan:
 * 09/27 (Wed) - Infererence algorithms 4
 * __**09/28 (Thu)**__ - Continuation-passing-style (CPS) transformation 1
 * 10/02 (Mon) - Continuation-passing-style (CPS) transformation 1
-* 10/04 (Wed) - **No lecture** (Chuseok)
-* 10/09 (Mon) - **No lecture** (Hangul)
+* 10/04 (Wed) - **NO LECTURE**
+* 10/09 (Mon) - **NO LECTURE**
 * 10/11 (Wed) - Continuation-passing-style (CPS) transformation 2
-* 10/16 (Mon) - **No lecture** (midterm exam)
-* 10/18 (Wed) - **No lecture** (midterm exam)
+* 10/16 (Mon) - **NO LECTURE**
+* 10/18 (Wed) - **NO LECTURE**
 * 10/23 (Mon) - Implementing inference algorithms for PPL using CPS transformation 2
 * 10/25 (Wed) - Inference algorithm 5
 * 10/30 (Mon) - Inference algorithm 6
@@ -58,7 +58,7 @@ We will schedule three additional lectures. Here is our current plan:
 * 11/06 (Mon) - Semantics of probabilistic programs 2
 * 11/08 (Wed) - Semantics of probabilistic programs 3
 * 11/13 (Mon) - Semantics of probabilistic programs 4
-* 11/15 (Wed) - **No lecture** (business trip)
+* 11/15 (Wed) - **NO LECTURE**
 * 11/20 (Mon) - Semantics of probabilistic programs 5
 * 11/22 (wed) - Semantics of probabilistic programs 6
 * 11/27 (Mon) - Amortised inference 1
