@@ -4,6 +4,10 @@ This is a website for the course ``CS492 Probabilistic Programming'', which is o
 at the KAIST CS department in the fall of 2017. The website will contain lecture slides
 and other course-related materials.
 
+## Evaluation
+
+Midterm and final exams. Project. Homework.
+
 ## Teaching Staffs
 
 * Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr)
@@ -29,37 +33,38 @@ We will schedule three additional lectures. Here is our current plan:
 
 ## Tentative Plan
 
-* 08/28 (Mon)
-* 08/30 (Wed)
+* 08/28 (Mon) - Introduction of probabilistic programming languages (PPLs)
+* 08/30 (Wed) - Developing and reasoning about probabilistic models using PPL 1
 * 09/04 (Mon) - **No lecture** (business trip)
 * 09/06 (Wed) - **No lecture** (business trip)
-* 09/11 (Mon)
-* 09/13 (Wed)
-* 09/18 (Mon)
-* 09/20 (Wed)
-* **09/21 (Thu)**
-* 09/25 (Mon)
-* 09/27 (Wed)
-* **09/28 (Thu)**
-* 10/02 (Mon)
+* 09/11 (Mon) - Developing and reasoning about probabilistic models using PPL 2
+* 09/13 (Wed) - Developing and reasoning about probabilistic models using PPL 3
+* 09/18 (Mon) - Developing and reasoning about probabilistic models using PPL 4
+* 09/20 (Wed) - Inference algorithms 1
+* __**09/21 (Thu)**__ - Inference algorithms 2
+* 09/25 (Mon) - Inference algorithms 3
+* 09/27 (Wed) - Infererence algorithms 4
+* __**09/28 (Thu)**__ - Continuation-passing-style (CPS) transformation 1
+* 10/02 (Mon) - Continuation-passing-style (CPS) transformation 1
 * 10/04 (Wed) - **No lecture** (Chuseok)
 * 10/09 (Mon) - **No lecture** (Hangul)
-* 10/11 (Wed)
+* 10/11 (Wed) - Continuation-passing-style (CPS) transformation 2
 * 10/16 (Mon) - **No lecture** (midterm exam)
 * 10/18 (Wed) - **No lecture** (midterm exam)
-* 10/23 (Mon)
-* 10/25 (Wed)
-* 10/30 (Mon)
-* 11/01 (Wed)
-* 11/06 (Mon)
-* 11/08 (Wed)
-* 11/13 (Mon)
+* 10/23 (Mon) - Implementing inference algorithms for PPL using CPS transformation 2
+* 10/25 (Wed) - Inference algorithm 5
+* 10/30 (Mon) - Inference algorithm 6
+* 11/01 (Wed) - Semantics of probabilistic programs 1
+* 11/06 (Mon) - Semantics of probabilistic programs 2
+* 11/08 (Wed) - Semantics of probabilistic programs 3
+* 11/13 (Mon) - Semantics of probabilistic programs 4
 * 11/15 (Wed) - **No lecture** (business trip)
-* 11/20 (Mon)
-* 11/22 (wed)
-* 11/27 (Mon)
-* 11/29 (Wed)
-* 12/04 (Mon)
-* 12/06 (Wed)
+* 11/20 (Mon) - Semantics of probabilistic programs 5
+* 11/22 (wed) - Semantics of probabilistic programs 6
+* 11/27 (Mon) - Amortised inference 1
+* 11/29 (Wed) - Amortised inference 2
+* __**11/30 (Thu)**__ - Project presentation 1
+* 12/04 (Mon) - Project presentation 2
+* 12/06 (Wed) - Conclusion
 * 12/11 (Mon) - **No lecture** (final exam)
 * 12/13 (Wed) - **No lecture** (final exam)
