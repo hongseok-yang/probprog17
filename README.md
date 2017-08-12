@@ -13,7 +13,8 @@ and other course-related materials.
 
 * Place: Room 2443 in the E3 Building
 * Time: 9:00 - 10:15 on Monday and Wednesday from August 28 2017 until December 15 2017.
-* There will be no lectures on the following dates:
+
+**There will be no lectures on the following dates:**
 1. September 4 (Monday) and September 6 (Wednesday) --- Business Trip
 2. October 4 (Wednesday) --- Chuseok
 3. October 9 (Monday) --- Hangul Proclamation Day
