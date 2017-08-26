@@ -23,13 +23,13 @@ There will be no lectures on the following dates:
 2. October 4 (Wed) - Chuseok
 3. October 9 (Mon) - Hangul Proclamation Day
 4. October 16 (Mon) and October 18 (Wed) - Midterm Exam Period
-5. November 15 (Wed) - Business Trip
+5. November 13 (Mon) and November 15 (Wed) - Business Trip
 6. December 11 (Mon) and December 13 (Wed) - Final Exam Period
 
-We will schedule three additional lectures. Here is our current plan:
-1. A lecture in the evening of September 21 (Thu)
-2. A lecture in the evening of September 28 (Thu)
-3. A lecture in the evening of November 30 (Thu)
+Instead of the four missing lectures, I plan to schedule two four-hour
+interview sessions with project groups. Here is our current plan:
+1. 7:00pm - 9:00pm on September 21 and 22 (Thu and Fri).
+2. 7:00pm - 9:00pm on October 26 and 27 (Thu and Fri).
 
 ## Tentative Plan
 
