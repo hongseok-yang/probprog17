@@ -35,11 +35,11 @@ interview sessions with project groups. Here is our current plan:
 
 ## Tentative Plan
 
-* 08/28 (Mon) - Introduction [slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
-* 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican [slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
+* 08/28 (Mon) - Introduction ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf))
+* 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf))
 * 09/04 (Mon) - **NO LECTURE** 
 * 09/06 (Wed) - **NO LECTURE**
-* 09/11 (Mon) - Posterior Inference and Basics of Anglican [slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
+* 09/11 (Mon) - Posterior Inference and Basics of Anglican ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf))
 * 09/13 (Wed) - TBD
 * 09/18 (Mon) - TBD
 * 09/20 (Wed) - TBD
