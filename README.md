@@ -6,7 +6,7 @@ and other course-related materials.
 
 ## Evaluation
 
-Midterm and final exams. Project. Homework.
+Final exam (40%). Project (40%). Homework (20%).
 
 ## Teaching Staffs
 
@@ -33,38 +33,37 @@ interview sessions with project groups. Here is our current plan:
 
 ## Tentative Plan
 
-* 08/28 (Mon) - Introduction of probabilistic programming languages (PPLs)
-* 08/30 (Wed) - Developing and reasoning about probabilistic models using PPL 1
+* 08/28 (Mon) - Introduction 
+* 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican
 * 09/04 (Mon) - **NO LECTURE** 
 * 09/06 (Wed) - **NO LECTURE**
-* 09/11 (Mon) - Developing and reasoning about probabilistic models using PPL 2
-* 09/13 (Wed) - Developing and reasoning about probabilistic models using PPL 3
-* 09/18 (Mon) - Developing and reasoning about probabilistic models using PPL 4
-* 09/20 (Wed) - Inference algorithms 1
-* __**09/21 (Thu)**__ - Inference algorithms 2
-* 09/25 (Mon) - Inference algorithms 3
-* 09/27 (Wed) - Infererence algorithms 4
-* __**09/28 (Thu)**__ - Continuation-passing-style (CPS) transformation 1
-* 10/02 (Mon) - Continuation-passing-style (CPS) transformation 1
+* 09/11 (Mon) - Posterior Inference and Basics of Anglican
+* 09/13 (Wed) - TBD
+* 09/18 (Mon) - TBD
+* 09/20 (Wed) - TBD
+* __**09/21 (Thu)**__ - Interview with project groups
+* __**09/22 (Fri)**__ - Interview with project groups
+* 09/25 (Mon) - TBD
+* 09/27 (Wed) - TBD
+* 10/02 (Mon) - TBD
 * 10/04 (Wed) - **NO LECTURE**
 * 10/09 (Mon) - **NO LECTURE**
-* 10/11 (Wed) - Continuation-passing-style (CPS) transformation 2
+* 10/11 (Wed) - TBD
 * 10/16 (Mon) - **NO LECTURE**
 * 10/18 (Wed) - **NO LECTURE**
-* 10/23 (Mon) - Implementing inference algorithms for PPL using CPS transformation 2
-* 10/25 (Wed) - Inference algorithm 5
-* 10/30 (Mon) - Inference algorithm 6
-* 11/01 (Wed) - Semantics of probabilistic programs 1
-* 11/06 (Mon) - Semantics of probabilistic programs 2
-* 11/08 (Wed) - Semantics of probabilistic programs 3
-* 11/13 (Mon) - Semantics of probabilistic programs 4
+* 10/23 (Mon) - TBD
+* 10/25 (Wed) - TBD
+* 10/30 (Mon) - TBD
+* 11/01 (Wed) - TBD
+* 11/06 (Mon) - TBD
+* 11/08 (Wed) - TBD
+* 11/13 (Mon) - **NO LECTURE**
 * 11/15 (Wed) - **NO LECTURE**
-* 11/20 (Mon) - Semantics of probabilistic programs 5
-* 11/22 (wed) - Semantics of probabilistic programs 6
-* 11/27 (Mon) - Amortised inference 1
-* 11/29 (Wed) - Amortised inference 2
-* __**11/30 (Thu)**__ - Project presentation 1
-* 12/04 (Mon) - Project presentation 2
+* 11/20 (Mon) - TBD
+* 11/22 (wed) - TBD
+* 11/27 (Mon) - Project presentation 1
+* 11/29 (Wed) - Project presentation 2
+* 12/04 (Mon) - TBD
 * 12/06 (Wed) - Conclusion
 * 12/11 (Mon) - **NO LECTURE**
 * 12/13 (Wed) - **NO LECTURE**
