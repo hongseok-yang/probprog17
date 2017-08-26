@@ -4,6 +4,8 @@ This is a website for the course ``CS492 Probabilistic Programming'', which is o
 at the KAIST CS department in the fall of 2017. The website will contain lecture slides
 and other course-related materials.
 
+## Overview and List of Topics (Tentative)
+
 ## Evaluation
 
 Final exam (40%). Project (40%). Homework (20%).
@@ -68,11 +70,11 @@ interview sessions with project groups. Here is our current plan:
 * 12/11 (Mon) - **NO LECTURE**
 * 12/13 (Wed) - **NO LECTURE**
 
-## List of Papers for Presentation
+## References
 
-## Project Topics
+## Group Activities
+
+2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presenation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommedation, not a requirement.
 
 Track A:
 Track B:
-
-## References
