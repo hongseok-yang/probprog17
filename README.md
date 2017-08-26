@@ -61,9 +61,18 @@ interview sessions with project groups. Here is our current plan:
 * 11/15 (Wed) - **NO LECTURE**
 * 11/20 (Mon) - TBD
 * 11/22 (wed) - TBD
-* 11/27 (Mon) - Project presentation 1
-* 11/29 (Wed) - Project presentation 2
+* 11/27 (Mon) - Project Presentation 1
+* 11/29 (Wed) - Project Presentation 2
 * 12/04 (Mon) - TBD
 * 12/06 (Wed) - Conclusion
 * 12/11 (Mon) - **NO LECTURE**
 * 12/13 (Wed) - **NO LECTURE**
+
+## List of Papers for Presentation
+
+## Project Topics
+
+Track A:
+Track B:
+
+## References
