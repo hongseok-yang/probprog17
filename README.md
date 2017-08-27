@@ -99,19 +99,16 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 12/06 (Wed) - Group Presentation and Follow-up Discussion
 * 12/11 (Mon), 12/13 (Wed) - **NO LECTURE**
 
-## Studying Materials
+## 4. Studying Materials
 
-Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Also, at each lecture, we will give students pointers to the related papers. If a student wants to study more or find the slides and the papers too terse, we recommend to have a look at the following online materials.
+Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Also, at each lecture, we will give students pointers to the related papers. If a student wants to study more or finds the slides and the papers too terse or difficult, we recommend to have a look at the following online materials.
 
 1. [Anglican website](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, students will learn a lot by trying examples in the site.
-
 2. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)" This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
-
 3. [Forestdb.org](http://forestdb.org/) is a great source of interesting probabilistic programs. 
-
 4. The online book "[Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)" describes Bayesian Machine Learning using a probabilistic programming system called PyMC.  Hongseok found this book easy to follow and good at explaining basics and intuitions. A more standard reference on machine learning is Bishop's book "Pattern Recognition and Machine Learning".
 
-## Group Activities
+## 5. Group Project
 
 2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
 
