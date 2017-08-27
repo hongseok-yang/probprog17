@@ -28,20 +28,9 @@ programming languages, and probability theory.
 Through a group project, students will be given a chance to study one such result,
 to present what they learn, and to ponder over the result.
 
+## Important Announcements
 
-## Evaluation
-
-Final exam (40%). Project (40%). Homework (20%).
-
-## Teaching Staffs
-
-* Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr)
-* TA: Byungsu Kim (email: bskim90@kaist.ac.kr)
-
-### Place and Time
-
-* Place: Room 2443 in the E3 Building
-* Time: 9:00 - 10:15 on Monday and Wednesday from August 28 2017 until December 15 2017.
+#### [27 August 2017]
 
 There will be no lectures on the following dates:
 1. September 4 (Mon) and September 6 (Wed) - Business Trip
@@ -55,6 +44,22 @@ Instead of the three missing lectures, I plan to schedule two four-hour
 interview sessions with project groups. Here is our current plan:
 1. 7:00pm - 9:00pm on September 21 and 22 (Thu and Fri).
 2. 7:00pm - 9:00pm on October 26 and 27 (Thu and Fri).
+
+## Logistics
+
+### Evaluation
+
+Final exam (40%). Project (40%). Homework (20%).
+
+### Teaching Staffs
+
+* Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr)
+* TA: Byungsu Kim (email: bskim90@kaist.ac.kr)
+
+### Place and Time
+
+* Place: Room 2443 in the E3 Building
+* Time: 9:00 - 10:15 on Monday and Wednesday from August 28 2017 until December 15 2017.
 
 ## Tentative Plan
 
