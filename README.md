@@ -28,7 +28,7 @@ programming languages, and probability theory.
 Through a group project, students will be given a chance to study such a result
 and to play with it.
 
-## Announcements
+# Announcements
 
 #### [August 27 2017] 1. Missing lectures and interview sessions.
 
@@ -64,7 +64,7 @@ Final exam (40%). Project (40%). Homework (20%).
 
 Look at the announcements for the cancelled lectures and the additional meetings.
 
-## Tentative Plan
+# Tentative Plan
 
 * 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
