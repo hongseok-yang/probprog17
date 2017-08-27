@@ -48,10 +48,10 @@ There will be no lectures on the following dates:
 2. October 4 (Wed) - Chuseok
 3. October 9 (Mon) - Hangul Proclamation Day
 4. October 16 (Mon) and October 18 (Wed) - Midterm Exam Period
-5. November 13 (Mon) and November 15 (Wed) - Business Trip
+5. November 15 (Wed) - Business Trip
 6. December 11 (Mon) and December 13 (Wed) - Final Exam Period
 
-Instead of the four missing lectures, I plan to schedule two four-hour
+Instead of the three missing lectures, I plan to schedule two four-hour
 interview sessions with project groups. Here is our current plan:
 1. 7:00pm - 9:00pm on September 21 and 22 (Thu and Fri).
 2. 7:00pm - 9:00pm on October 26 and 27 (Thu and Fri).
@@ -63,12 +63,12 @@ interview sessions with project groups. Here is our current plan:
 * 09/04 (Mon) - **NO LECTURE** 
 * 09/06 (Wed) - **NO LECTURE**
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf))
-* 09/13 (Wed) - TBD
-* 09/18 (Mon) - TBD
-* 09/20 (Wed) - TBD
+* 09/13 (Wed) - TBD (Something about generative modelling in Anglican) 
+* 09/18 (Mon) - TBD (Something about inference algorithms in general)
+* 09/20 (Wed) - TBD (Something about CPS transformation)
 * __**09/21 (Thu)**__ - Interview with project groups
 * __**09/22 (Fri)**__ - Interview with project groups
-* 09/25 (Mon) - TBD
+* 09/25 (Mon) - TBD (Something about inference algorithms in Anglican)
 * 09/27 (Wed) - TBD
 * 10/02 (Mon) - TBD
 * 10/04 (Wed) - **NO LECTURE**
@@ -82,7 +82,7 @@ interview sessions with project groups. Here is our current plan:
 * 11/01 (Wed) - TBD
 * 11/06 (Mon) - TBD
 * 11/08 (Wed) - TBD
-* 11/13 (Mon) - **NO LECTURE**
+* 11/13 (Mon) - TBD
 * 11/15 (Wed) - **NO LECTURE**
 * 11/20 (Mon) - TBD
 * 11/22 (wed) - TBD
