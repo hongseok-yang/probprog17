@@ -30,20 +30,21 @@ and to play with it.
 
 ## Announcements
 
-#### [27 August 2017] Missing lectures and interview sessions.
+#### [August 27 2017] 1. Missing lectures and interview sessions.
 
 There will be no lectures on the following dates:
 1. September 4 (Mon) and September 6 (Wed) - Business Trip
 2. October 4 (Wed) - Chuseok
 3. October 9 (Mon) - Hangul Proclamation Day
 4. October 16 (Mon) and October 18 (Wed) - Midterm Exam Period
-5. November 15 (Wed) - Business Trip
+5. November 13 (Mon) and November 15 (Wed) - Business Trip
 6. December 11 (Mon) and December 13 (Wed) - Final Exam Period
 
-Instead of the three missing lectures, I plan to schedule two four-hour
+Instead of the four missing lectures, I plan to schedule three four-hour
 interview sessions with project groups. Here is our current plan:
 1. 7:00pm - 9:00pm on September 21 and 22 (Thu and Fri).
 2. 7:00pm - 9:00pm on October 26 and 27 (Thu and Fri).
+3. 7:00pm - 9:00pm on November 26 and 27 (Thu and Fri).
 
 ## Logistics
 
@@ -71,8 +72,8 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 09/06 (Wed) - **NO LECTURE**
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/13 (Wed) - TBD 
-* 09/18 (Mon) - TBD 
-* 09/20 (Wed) - TBD 
+* 09/18 (Mon) - TBD
+* 09/20 (Wed) - TBD
 * __**09/21 (Thu)**__ - Interview with project groups
 * __**09/22 (Fri)**__ - Interview with project groups
 * 09/25 (Mon) - TBD 
@@ -85,20 +86,35 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 10/18 (Wed) - **NO LECTURE**
 * 10/23 (Mon) - TBD
 * 10/25 (Wed) - TBD
+* __**10/26 (Thu)**__ - Interview with project groups
+* __**10/27 (Fri)**__ - Interview with project groups
 * 10/30 (Mon) - TBD
 * 11/01 (Wed) - TBD
 * 11/06 (Mon) - TBD
 * 11/08 (Wed) - TBD
-* 11/13 (Mon) - Student Presentation and Follow-up Discussion 1
+* 11/13 (Mon) - **NO LECTURE**
 * 11/15 (Wed) - **NO LECTURE**
-* 11/20 (Mon) - Student Presentation and Follow-up Discussion 2
-* 11/22 (wed) - Student Presentation and Follow-up Discussion 3
-* 11/27 (Mon) - Student Presentation and Follow-up Discussion 4
+* 11/20 (Mon) - Amortised inference
+* 11/22 (wed) - Amortised inference
+* 11/27 (Mon) - Amortised Student Presentation and Follow-up Discussion 4
 * 11/29 (Wed) - TBD
-* 12/04 (Mon) - TBD
-* 12/06 (Wed) - Conclusion
+* 12/04 (Mon) - Amortised Inference (Tentative)
+* 12/06 (Wed) - Amortised Inference (Tentative)
 * 12/11 (Mon) - **NO LECTURE**
 * 12/13 (Wed) - **NO LECTURE**
+
+* Introduction
+* Basics of Clojure and Tiny Bit of Anglican
+* Posterior Inference and Basics of Anglican
+* Generative Models
+* Markov Chain Monte Carlo (MCMC)
+* CPS Transformation and Implementation of MCMC for Probabilistic Programs
+* Sequential Monte Carlo 
+* Basic Measure Theory
+* Quasi-Borel Space and Semantics of Probabilistic Programs
+* Amortised Inference
+* Automated Differentiation, Hamiltonian Monte Carlo
+* Conclusion
 
 ## Studying Materials
 
@@ -124,6 +140,7 @@ Track B:
 * Program induction
 * Amortised inference
 * Semantic challenges
+* Black-box Variational Inference
 * Interesting applciations of probabilistic programs
 * Challeging models 
 
