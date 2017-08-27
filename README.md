@@ -70,7 +70,7 @@ Look at the announcements for the cancelled lectures and the additional meetings
 
 * 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
-* 09/04 (Mon), 09/05 (Wed) - **NO LECTURE** 
+* 09/04 (Mon), 09/05 (Wed) - **NO LECTURES** 
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/13 (Wed) - Generative Models in Anglican. (Tentative)
 * 09/18 (Mon) - Generative Models in Anglican. (Tentative)
@@ -99,22 +99,9 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 12/06 (Wed) - Group Presentation and Follow-up Discussion
 * 12/11 (Mon), 12/13 (Wed) - **NO LECTURE**
 
-Introduction
-Basics of Clojure and Tiny Bit of Anglican
-Posterior Inference and Basics of Anglican
-Generative Models
-Markov Chain Monte Carlo (MCMC)
-CPS Transformation and Implementation of MCMC for Probabilistic Programs
-Sequential Monte Carlo 
-Basic Measure Theory
-Quasi-Borel Space and Semantics of Probabilistic Programs
-Amortised Inference
-Automated Differentiation, Hamiltonian Monte Carlo
-Conclusion
-
 ## Studying Materials
 
-Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Additionally, we suggest the following list of online materials.
+Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Also, at each lecture, we will give students pointers to the related papers. If a student wants to study more or find the slides and the papers too terse, we recommend to have a look at the following online materials.
 
 1. [Anglican website](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, students will learn a lot by trying examples in the site.
 
