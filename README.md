@@ -40,8 +40,9 @@ There will be no lectures on the following dates:
 5. November 13 (Mon) and November 15 (Wed) - Business Trip
 6. December 11 (Mon) and December 13 (Wed) - Final Exam Period
 
-Instead of the four missing lectures, I plan to schedule three four-hour
-interview sessions with project groups. Here is our current plan:
+Instead of the four missing lectures, Hongseok plans to have three meetings
+with each project group for about 30 minutes (assuming that there are at
+most 6 groups). These meetings will happen as follows:
 1. 7:00pm - 9:00pm on September 21 and 22 (Thu and Fri).
 2. 7:00pm - 9:00pm on October 26 and 27 (Thu and Fri).
 3. 7:00pm - 9:00pm on November 09 and 10 (Thu and Fri).
@@ -82,7 +83,7 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 10/16 (Mon), 10/18 (Wed) - **NO LECTURE**
 * 10/23 (Mon) - Basic Measure Theory. (Tentative)
 * 10/25 (Wed) - Denotational Semantics of Probabilistic Programs. (Tentative)
-* __**10/26-27 (Thu,Fri) - Interview with project groups**__
+* __**10/26-27 (Thu,Fri) - MEETINGS with project groups**__
 * 10/30 (Mon) - Denotational Semantics of Probabilistic Programs. (Tentative)
 * 11/01 (Wed) - Denotational Semantics of Probabilistic Programs. (Tentative)
 * 11/06 (Mon) - Advanced Inference Algorithms. (Tentative)
