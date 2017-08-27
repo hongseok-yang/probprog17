@@ -120,12 +120,12 @@ project group, and they will carry out a project in Track A or in Track B:
 
 #### Concrete Tasks 
 
-1. **[Deadline: midnight on Sep 11]** Form a group and email it to both Byungsu and Hongseok. 
-2. **[Sep 21-22, Oct 26-27, Nov 9-10]** Engage in active discussions during three evening meetings with Hongseok.
+1. **[Deadline: midnight on Sep 11]** Form a group. Email it to both Byungsu and Hongseok. 
+2. **[Sep 21-22, Oct 26-27, Nov 9-10]** Three evening meetings with Hongseok.
    1. First meeting: Choose candidate topics and plans before the meeting. 
    2. Second and third meetings: Have to explain the progress of a project and the challenges encountered so far.
 3. **[Nov 27,29, Dec 4,6]** Present the result of a project. The presentation should be 30 minutes long, and include enough background materials so that it can be understood by fellow students.
-4. **[Deadline: 24:00 on Dec 8]** Write and submit a project report. 
+4. **[Deadline: midnight on Dec 8]** Submit a project report that has no more than 4 pages. 
 
 #### Topics.
 
