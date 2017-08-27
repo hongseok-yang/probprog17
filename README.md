@@ -57,7 +57,7 @@ Final exam (40%). Project (40%). Homework (20%).
 #### Teaching Staffs
 
 * Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr)
-* TA: Byungsu Kim (email: bskim90@kaist.ac.kr)
+* TA: Byungsoo Kim (email: bskim90@kaist.ac.kr)
 
 #### Place and Time
 
@@ -118,7 +118,7 @@ project group, and they will carry out a project in Track A or in Track B:
 
 #### Concrete Tasks 
 
-1. **[Deadline: midnight on Sep 11]** Form a group. Email it to both Byungsu and Hongseok. 
+1. **[Deadline: midnight on Sep 11]** Form a group. Email it to both Byungsoo and Hongseok. 
 2. **[Sep 21-22, Oct 26-27, Nov 9-10]** Participate in three evening meetings with Hongseok actively.
    1. First meeting: Choose candidate topics and plans before the meeting. 
    2. Second and third meetings: Have to explain the progress of a project and the challenges encountered so far.
