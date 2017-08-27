@@ -105,18 +105,18 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 12/11 (Mon) - **NO LECTURE**
 * 12/13 (Wed) - **NO LECTURE**
 
-* Introduction
-* Basics of Clojure and Tiny Bit of Anglican
-* Posterior Inference and Basics of Anglican
-* Generative Models
-* Markov Chain Monte Carlo (MCMC)
-* CPS Transformation and Implementation of MCMC for Probabilistic Programs
-* Sequential Monte Carlo 
-* Basic Measure Theory
-* Quasi-Borel Space and Semantics of Probabilistic Programs
-* Amortised Inference
-* Automated Differentiation, Hamiltonian Monte Carlo
-* Conclusion
+Introduction
+Basics of Clojure and Tiny Bit of Anglican
+Posterior Inference and Basics of Anglican
+Generative Models
+Markov Chain Monte Carlo (MCMC)
+CPS Transformation and Implementation of MCMC for Probabilistic Programs
+Sequential Monte Carlo 
+Basic Measure Theory
+Quasi-Borel Space and Semantics of Probabilistic Programs
+Amortised Inference
+Automated Differentiation, Hamiltonian Monte Carlo
+Conclusion
 
 ## Studying Materials
 
