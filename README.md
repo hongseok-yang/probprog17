@@ -68,8 +68,7 @@ Look at the announcements for the cancelled lectures and the additional meetings
 
 * 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
-* 09/04 (Mon) - **NO LECTURE** 
-* 09/06 (Wed) - **NO LECTURE**
+* 09/04 (Mon), 09/05 (Wed) - **NO LECTURE** 
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/13 (Wed) - Generative Models in Anglican. (Tentative)
 * 09/18 (Mon) - Generative Models in Anglican. (Tentative)
@@ -78,11 +77,9 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 09/25 (Mon) - CPS Transformation and Implementation of MCMC for Probabilsitic Programs. (Tenative)
 * 09/27 (Wed) - CPS Transformation and Implementation of MCMC for Probabilistic Programs. (Tentative)
 * 10/02 (Mon) - Sequential Monte Carlo. (Tentative)
-* 10/04 (Wed) - **NO LECTURE**
-* 10/09 (Mon) - **NO LECTURE**
+* 10/04 (Wed), 10/09 (Mon) - **NO LECTURE**
 * 10/11 (Wed) - Sequential Monte Carlo. (Tentative)
-* 10/16 (Mon) - **NO LECTURE**
-* 10/18 (Wed) - **NO LECTURE**
+* 10/16 (Mon), 10/18 (Wed) - **NO LECTURE**
 * 10/23 (Mon) - Basic Measure Theory. (Tentative)
 * 10/25 (Wed) - Denotational Semantics of Probabilistic Programs. (Tentative)
 * __**10/26-27 (Thu,Fri) - Interview with project groups**__
@@ -91,16 +88,14 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 11/06 (Mon) - Advanced Inference Algorithms. (Tentative)
 * 11/08 (Wed) - Advanced Inference Algorithms. (Tentative)
 * __**11/09-10 (Thu,Fri) - Interview with project groups**__
-* 11/13 (Mon) - **NO LECTURE**
-* 11/15 (Wed) - **NO LECTURE**
+* 11/13 (Mon), 11/15 (Wed) - **NO LECTURE**
 * 11/20 (Mon) - Advanced Inference Algorithms. (Tentative)
-* 11/22 (wed) - Group Presentation and Follow-up Discussion
+* 11/22 (Wed) - Group Presentation and Follow-up Discussion
 * 11/27 (Mon) - Group Presentation and Follow-up Discussion
 * 11/29 (Wed) - Group Presentation and Follow-up Discussion
 * 12/04 (Mon) - Group Presentation and Follow-up Discussion
 * 12/06 (Wed) - Group Presentation and Follow-up Discussion
-* 12/11 (Mon) - **NO LECTURE**
-* 12/13 (Wed) - **NO LECTURE**
+* 12/11 (Mon), 12/13 (Wed) - **NO LECTURE**
 
 Introduction
 Basics of Clojure and Tiny Bit of Anglican
