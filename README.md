@@ -1,31 +1,10 @@
 # CS492 Probabilistic Programming, Fall 2017, KAIST 
 
-This is a website for the course "CS492 Probabilistic Programming", which is offered 
-at the KAIST CS department in the fall of 2017. The website will contain lecture slides
-and other course-related materials.
+This is a web page of the course "CS492 Probabilistic Programming", which is offered at the KAIST CS department in the fall of 2017. The web page will contain links to lecture slides and other course-related materials.
 
-Probabilistic programming refers to the idea of developing a programming 
-language for writing and reasoning about probabilistic models from machine learning 
-and statistics. Such a language comes with the implementation of several generic
-inference algorithms that answer various queries about the models written 
-in the language, such as posterior inference and marginalisation. By providing these
-algorithms, a probabilistic programming language
-enables data scientists to focus on designing good models based on their domain knowledge,
-instead of building effective inference engines for their models, a task that 
-typically requires expertise
-in machine learning, statistics and systems. Even experts in machine learning
-and statistics may get benefitted from such a probabilistic programming system
-because using the system they can easily explore highly advanced models.
+Probabilistic programming refers to the idea of developing a programming language for writing and reasoning about probabilistic models from machine learning and statistics. Such a language comes with the implementation of several generic inference algorithms that answer various queries about the models written in the language, such as posterior inference and marginalisation. By providing these algorithms, a probabilistic programming language enables data scientists to focus on designing good models based on their domain knowledge, instead of building effective inference engines for their models, a task that typically requires expertise in machine learning, statistics and systems. Even experts in machine learning and statistics may get benefitted from such a probabilistic programming system because using the system they can easily explore highly advanced models.
 
-This course has two goals. The first is to help students to be a good user
-of an expressive probabilistic programming language. 
-Throughout the course, we will use a particular 
-language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/),
-but we will emphasise general principles that apply to a wide range of existing probabilistic
-programming systems. The second goal is to expose the students to recent exciting results
-in probabilistic programming, which come from machine learning, statistics, 
-programming languages, and probability theory. 
-Through a group project, students will be given a chance to study such a result
+This course has two goals. The first is to help students to be a good user of an expressive probabilistic programming language.  Throughout the course, we will use a particular language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/), but we will emphasise general principles that apply to a wide range of existing probabilistic programming systems. The second goal is to expose the students to recent exciting results in probabilistic programming, which come from machine learning, statistics, programming languages, and probability theory.  Through a group project, students will be given a chance to study such a result
 and to play with it.
 
 ## 1. Important Announcements
@@ -74,7 +53,7 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 
 * 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
-* __**09/04 (Mon), 09/05 (Wed) - NO LECTURES.**__ 
+* __**09/04 (Mon), 09/06 (Wed) - NO LECTURES.**__ 
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/13 (Wed) - [Tentative] Generative Models in Anglican.
 * 09/18 (Mon) - [Tentative] Generative Models in Anglican. 
