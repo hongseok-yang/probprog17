@@ -127,23 +127,11 @@ project group, and they will carry out a project in Track A or in Track B:
 
 #### Suggeted Topics in Track B
 
-1. Automatic Model Criticism and Automatic Model Revision.
+1. **Automatic Model Criticism and Automatic Model Revision.** People often arrive at a useful model for a data set after revising the model multiple times. Model criticism refers to this revision process, and it is partly automated in the probabilistic programming language Edward and the R language. This goal here is to study the state of the art in automatic model criticism, and to develop similar or better model-criticism functionalities for Anglican, a more expressive probabilistic programming language than Edward and R. A more ambitious goal is to develop a technique for improving a model expressed as a probabilistic program by mutating the program. A good starting point is the [model-criticism page](http://edwardlib.org/tutorials/criticism) of the Edward language. The book "Rethinking Statistics" describes this model-criticism process with several examples and information-theoretic estimates such as WAIC. The topic shares the goal with [the automated statistican project](https://www.automaticstatistician.com/index/), although the techniques and the approaches are quite different.
 
-People often arrive at a useful model for a data set after revising the model multiple times. Model criticism refers to this revision process, and it is partly automated in the probabilistic programming language Edward and the R language. This goal here is to study the state of the art in automatic model criticism, and to develop similar or better model-criticism functionalities for Anglican, a more expressive probabilistic programming language than Edward and R. A more ambitious goal is to develop a technique for improving a model expressed as a probabilistic program by mutating the program.
+2. **Variational Optimisation for Anglican.** Suppose that we are given an Anglican function f that takes a real number and returns a real number. We would like to find an input to this function that maximises the expectation of f(x). The goal here is to use the variational optimisation technique to solve this problem. The variational optimisation is explained in [this paper](https://arxiv.org/abs/1707.07113). [This paper](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2016BOPP.pdf) on Bayesian optimisation for probabilistic programs is also related.
 
-A good starting point is the [model-criticism page](http://edwardlib.org/tutorials/criticism) of the Edward language. The book "Rethinking Statistics" describes this model-criticism process with several examples and information-theoretic estimates such as WAIC. The topic shares the goal with [the automated statistican project](https://www.automaticstatistician.com/index/), although the techniques and the approaches are quite different.
-
-2. Variational Optimisation for Anglican.
-
-Suppose that we are given an Anglican function f that takes a real number and returns a real number. We would like to find an input to this function that maximises the expectation of f(x). The goal here is to use the variational optimisation technique to solve this problem. The variational optimisation is explained in [this paper](https://arxiv.org/abs/1707.07113). [This paper](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2016BOPP.pdf).
-on Bayesian optimisation for probabilistic programs is also related.
-
-3. Renyi-Divergence-Based Black-box Variational Inference for Probabilistic Programs.
-
-A black-box variational inference (BBVI) is a powerful technique for computing an approximate posterior distribution of a model. The standard BBVI has been implemented in Anglican, and it has played a crucial role for using Anglican for solving stochastic challenging planning problems. The goal here is to implement a recent variant of BBVI based on Renyi divergence for Anglican, and to analyse its cons and pros experimentally.
-
-[The original BBVI paper](http://www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf)
-and 
+3. **Renyi-Divergence-Based Black-box Variational Inference for Probabilistic Programs.** A black-box variational inference (BBVI) is a powerful technique for computing an approximate posterior distribution of a model. The standard BBVI has been implemented in Anglican, and it has played a crucial role for using Anglican for solving stochastic challenging planning problems. The goal here is to implement a recent variant of BBVI based on Renyi divergence for Anglican, and to analyse its cons and pros experimentally. The related papers are [the original BBVI paper](http://www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf), [the Reni-divergence variational inference paper](https://arxiv.org/pdf/1602.02311.pdf), and [this paper on BBVI in Anglican](http://www.robots.ox.ac.uk/~fwood/assets/pdf/vandemeent16.pdf).
 
 4. Automated Differentiation.
 
