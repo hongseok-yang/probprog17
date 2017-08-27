@@ -110,16 +110,18 @@ Unfortunately we do not know of a good textbook that matches the topics of this 
 
 ## 5. Group Project
 
+#### Objectives 
+
 The group project is a crucial part of this course. 2-3 students should form a 
 project group, and they have to follow either Track A or Track B:
 
-1. Track A: A group develops an interesting application of Anglican or other probabilistic programming languages. The members of the group may attempt to find an efficient encoding of a highly complex probabilistic model (such as sequence memoizer) in Anglican,  or they may try to find a novel use of probabilistic programming for solving well-known existing problems (such as figuring out secret key in some security protocol).
-2. Track B: A group does small-scale research on probabilistic programming. The members of the group may choose to study a recent result on probabilistic programming or a related area and attempt to extend the result. Or they may consider a research question on probabilistic programming and try to come up with an answer. We will suggest a few results and questions, although members of each group are free to choose one for themselves.
+1. **Track A**: A group develops an interesting application of Anglican or other probabilistic programming languages. The members of the group may attempt to find an efficient encoding of a highly complex probabilistic model (such as sequence memoizer) in Anglican,  or they may try to find a novel use of probabilistic programming for solving well-known existing problems (such as figuring out secret key in some security protocol).
+2. **Track B**: A group does small-scale research on probabilistic programming. The members of the group may choose to study a recent result on probabilistic programming or a related area and attempt to extend the result. Or they may consider a research question on probabilistic programming and try to come up with an answer. We will suggest a few results and questions, although members of each group are free to choose one for themselves.
 
 #### Concrete Tasks 
 
 1. Form a group and email it to both Byungsu and Hongseok. [Deadline: 24:00 on Sept 11].
-2. Three evening meetings with Hongseok on Sep 21-22, Oct 26-27 and Nov 09-10.
+2. Actively participation in three evening meetings with Hongseok on Sep 21-22, Oct 26-27 and Nov 09-10.
 3. Presentation and demonstration.
 4. Project report.
 
