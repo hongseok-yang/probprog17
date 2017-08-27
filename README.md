@@ -93,10 +93,10 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * __**11/13 (Mon), 11/15 (Wed) - NO LECTURES.**__
 * 11/20 (Mon) - [Tentative] Advanced Inference Algorithms.
 * 11/22 (Wed) - [Tentative] Advanced Inference Algorithms.
-* 11/27 (Mon) - [Tentative] Group Presentation and Follow-up Discussion. 
-* 11/29 (Wed) - [Tentative] Group Presentation and Follow-up Discussion.
-* 12/04 (Mon) - [Tentative] Group Presentation and Follow-up Discussion.
-* 12/06 (Wed) - [Tentative] Group Presentation and Follow-up Discussion.
+* 11/27 (Mon) - [Tentative] Project Presentation and Discussion. 
+* 11/29 (Wed) - [Tentative] Project Presentation and Discussion.
+* 12/04 (Mon) - [Tentative] Project Presentation and Discussion.
+* 12/06 (Wed) - [Tentative] Project Presentation and Discussion.
 * __**12/11 (Mon), 12/13 (Wed) - NO LECTURES.**__
 
 ## 4. Studying Materials
@@ -110,13 +110,11 @@ Unfortunately we do not know of a good textbook that matches the topics of this 
 
 ## 5. Group Project
 
-#### Objective
-
 A group project is a crucial part of this course. 2-3 students will form a 
 project group, and they will carry out a project in Track A or in Track B:
 
 1. **Track A**: A group develops an interesting application of Anglican or other probabilistic programming languages. The members of the group may attempt to find an efficient encoding of a highly complex probabilistic model (such as sequence memoizer) in Anglican,  or they may develop a new probabilistic model for a complex data set and analyse the data set, or they may try to find a novel use of probabilistic programming for solving well-known existing problems (such as figuring out secret key in some security protocol).
-2. **Track B**: A group does small-scale research on probabilistic programming. The members of the group may choose to study a recent result on probabilistic programming or a related area and attempt to extend the result. Or they may consider a research question on probabilistic programming and try to come up with an answer. We will suggest a few results and questions, although members of each group are free to choose one for themselves.
+2. **Track B**: A group does small-scale research on probabilistic programming. The members of the group may choose to study a recent result on probabilistic programming or a related area and attempt to extend the result. Or they may consider a research question on probabilistic programming and try to come up with an answer. We are aware that failure is a norm in research. Thus, failed attempts to answer open questions and novel yet slower algorithms than existing ones are completely fine as long as they are analyzed carefully. We will suggest a few results and questions, although members of each group are free to choose one for themselves.
 
 #### Concrete Tasks 
 
@@ -127,12 +125,7 @@ project group, and they will carry out a project in Track A or in Track B:
 3. **[Nov 27,29, Dec 4,6]** Present the result of a project. The presentation should be 30 minutes long, and include enough background materials so that it can be understood by fellow students.
 4. **[Deadline: midnight on Dec 8]** Submit a project report that has no more than 4 pages. 
 
-#### Topics.
-
-people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
-
-Track A:
-Track B:
+#### Suggeted Topics in Track B
 
 * Automated differentiation 
 * Automatic model criticism and revision:
@@ -140,8 +133,6 @@ Track B:
 * Amortised inference
 * Semantic challenges
 * Black-box Variational Inference
-* Interesting applciations of probabilistic programs
-* Challeging models 
 
 Papers on applications.
 
