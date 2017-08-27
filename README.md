@@ -133,51 +133,6 @@ project group, and they will carry out a project in Track A or in Track B:
 
 3. **Renyi-Divergence-Based Black-box Variational Inference for Probabilistic Programs.** A black-box variational inference (BBVI) is a powerful technique for computing an approximate posterior distribution of a probabilistic model. The standard BBVI has been implemented in Anglican, and it has played a crucial role for using Anglican for solving challenging stochastic planning problems. Our goal is to implement a recent variant of BBVI based on Renyi divergence for Anglican, and to analyse its cons and pros experimentally. The related papers are [the original BBVI paper](http://www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf), [the Reni-divergence variational inference paper](https://arxiv.org/pdf/1602.02311.pdf), and [this paper on BBVI in Anglican](http://www.robots.ox.ac.uk/~fwood/assets/pdf/vandemeent16.pdf).
 
-4. **Comparing Cartesian Product of Quasi-Borel Spaces with That of Measurable Spaces.** This is a math problem. In the course, we will present quasi-Borel spaces and use them to set a new foundation of probability theory. Then, we will explain why this new foundation is more suitable for describing Anglican programs than the standard foundation based on measurable spaces. One of the reasons is that the cartesian product of quasi-Borel spaces is different from that of measurable spaces. Although this difference is known, however, we lack concrete examples that show this difference concretely. The goal here is to find such examples and to try to say something general about those examples. [Hongseok's LICS'17 paper](https://arxiv.org/pdf/1701.02547.pdf) is a good entry for this topic.
+4. **Comparing the Cartesian Product of Quasi-Borel Spaces with That of Measurable Spaces.** This is a math problem. In the course, we will present quasi-Borel spaces and use them to set a new foundation of probability theory. Then, we will explain why this new foundation is more suitable for describing Anglican programs than the standard foundation based on measurable spaces. One of the reasons is that the cartesian product of quasi-Borel spaces is different from that of measurable spaces. Although this difference is known, however, we lack concrete examples that show this difference concretely. The goal here is to find such examples and to try to say something general about those examples. [Hongseok's LICS'17 paper](https://arxiv.org/pdf/1701.02547.pdf) is a good entry for this topic.
 
-4. Automated Differentiation.
-
-
-5. Abstraction by Averaging.
-
-
-
-
-Papers on applications.
-
-* Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs. Stuhlmuller, A., & Goodman, N. D. (2014). Cognitive Systems Research. [PDF](http://ac.els-cdn.com/S1389041713000387/1-s2.0-S1389041713000387-main.pdf?_tid=ccc56dc0-8ad0-11e7-b2eb-00000aacb35e&acdnat=1503801685_7dbb093f8f7c45aa3334424c07f5349d)
-
-* Human-level Concept Learning Through Probabilistic Program Induction. Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Science. [PDF](http://science.sciencemag.org/content/sci/350/6266/1332.full.pdf)
-
-* Picture: A Probabilistic Programming Language for Scene Perception. Kulkarni, T., Kohli, P., Tenenbaum, J., & Mansinghka, V. (2015). In Proceedings of CVPR 2015. [PDF](https://mrkulk.github.io/www_cvpr15/1999.pdf)
-
-* A Probabilistic Programming Approach To Probabilistic Data Analysis. 
-Saad, F., & Mansinghka, V. (2016). In Proceedings of NIPS 2016. [PDF](https://papers.nips.cc/paper/6060-a-probabilistic-programming-approach-to-probabilistic-data-analysis.pdf)
-
-* Detecting Dependencies in Sparse, Multivariate Databases Using Probabilistic Programming and Non-parametric Bayes. Saad, F., & Mansinghka, V. (2017). In Proceedings of AISTATS 2017. [PDF](http://proceedings.mlr.press/v54/saad17a/saad17a.pdf).
-
-Papers on inference algorithms.
-
-* Inference Compilation and Universal Probabilistic Programming. 
-Le, T. A., Baydin, A. G., & Wood, F. (2017). In Proceedings of AISTATS 2017.
-[PDF](https://arxiv.org/pdf/1610.09900.pdf).
-
-* Bayesian Optimization for Probabilistic Programs. 
-Rainforth, T., Le, T. A., van de Meent, J.-W., Osborne, M. A., & Wood, F. (2016). 
-In Proceedings of NIPS 2016. [PDF for short version](http://www.robots.ox.ac.uk/~fwood/assets/pdf/rainforth-nips-2016.pdf). [PDF for long version](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2016BOPP.pdf).
-
-* Design and Implementation of Probabilistic Programming Language Anglican. 
-Tolpin, D., van de Meent, J.-W., Yang, H., & Wood, F. (2016). 
-In Proceedings of IFL 2016. [PDF](https://arxiv.org/pdf/1608.05263.pdf).
-
-Papers on semantics.
-
-* Semantics for Probabilistic Programming: Higher-order Functions, Continuous Distributions, and Soft Constraints. Staton, S., Yang, H., Heunen, C., Kammar, O., & Wood, F. (2016). 
-In Proceedings of LICS 2016. [PDF](https://arxiv.org/pdf/1601.04943.pdf).
-
-* Commutative Semantics for Probabilistic Programming.  Staton, S. (2017). In Proceedings of ESOP 2017. [PDF](http://www.cs.ox.ac.uk/people/samuel.staton/papers/esop2017.pdf).
-
-* A Convenient Category for Higher-Order Probability Theory. Heunen, C., Kammar O., Staton, S., & Yang, H. (2017). In Proceedings of LICS 2017. [PDF](https://arxiv.org/pdf/1701.02547.pdf).
-
-
-
+5. **Automatic Synthesis of Probabilistic Programs.** The goal of this topic is to develop an efficient technique for finding a good probabilistic program for a given data set. Nori and his colleagues worked on this problem using the idea of sketch from the programming-language community. Understanding [their paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-5.pdf) and modifying their techniques in the context of Anglican can become a good starting point. [This paper](http://www.robots.ox.ac.uk/~fwood/assets/pdf/perov-agi-2016.pdf) by Perov and Wood and [this paper](https://arxiv.org/pdf/1110.5667.pdf) seem to be related.
