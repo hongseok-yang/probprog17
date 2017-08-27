@@ -28,9 +28,9 @@ programming languages, and probability theory.
 Through a group project, students will be given a chance to study one such result,
 to present what they learn, and to ponder over the result.
 
-## Important Announcements
+## Announcements
 
-#### [27 August 2017]
+#### [27 August 2017] Cancelled lectures and additional meetings
 
 There will be no lectures on the following dates:
 1. September 4 (Mon) and September 6 (Wed) - Business Trip
@@ -65,11 +65,11 @@ Look at the announcements for the cancelled lectures and the additional meetings
 
 ## Tentative Plan
 
-* 08/28 (Mon) - Introduction ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf))
-* 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf))
+* 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
+* 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
 * 09/04 (Mon) - **NO LECTURE** 
 * 09/06 (Wed) - **NO LECTURE**
-* 09/11 (Mon) - Posterior Inference and Basics of Anglican ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf))
+* 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/13 (Wed) - TBD 
 * 09/18 (Mon) - TBD 
 * 09/20 (Wed) - TBD 
@@ -102,12 +102,15 @@ Look at the announcements for the cancelled lectures and the additional meetings
 
 ## Studying Materials
 
-Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of this course is likely to be the most time-efficient way to catch up with this course. Additionally, we suggest
-the following materials:
+Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of this course is likely to be the most time-efficient way to catch up with this course. Additionally, we suggest the following list of online materials.
 
-1. Anglican web site. ([link](http://www.robots.ox.ac.uk/~fwood/anglican/)). In particular, students will learn a lot by trying examples in the site.
+1. Anglican web site. [Link.](http://www.robots.ox.ac.uk/~fwood/anglican/) In particular, students will learn a lot by trying examples in the site.
 
-2. Goodman and Stuhlmuller's book "The Design and Implementation of Probabilistic Programming Languages". [PDF](http://dippl.org/). This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
+2. Goodman and Stuhlmuller's book "The Design and Implementation of Probabilistic Programming Languages". [PDF.](http://dippl.org/). This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
+
+3. Forestdb.org is a great source of interesting probabilistic programs. [Link.](http://forestdb.org/)
+
+4. The online book "Probabilistic Programming and Bayesian Methods for Hackers" describes Bayesian Machine Learning using a probabilistic programming system called PyMC. [Link.](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) Hongseok found this book easy to follow and good at explaining basics and intuitions. A more standard reference on machine learning is Bishop's book "Pattern Recognition and Machine Learning".
 
 ## Group Activities
 
