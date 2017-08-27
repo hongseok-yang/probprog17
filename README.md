@@ -63,13 +63,13 @@ interview sessions with project groups. Here is our current plan:
 * 09/04 (Mon) - **NO LECTURE** 
 * 09/06 (Wed) - **NO LECTURE**
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican ([slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf))
-* 09/13 (Wed) - TBD (Something about generative modelling in Anglican) 
-* 09/18 (Mon) - TBD (Something about inference algorithms in general)
-* 09/20 (Wed) - TBD (Something about CPS transformation)
+* 09/13 (Wed) - TBD 
+* 09/18 (Mon) - TBD 
+* 09/20 (Wed) - TBD 
 * __**09/21 (Thu)**__ - Interview with project groups
 * __**09/22 (Fri)**__ - Interview with project groups
-* 09/25 (Mon) - TBD (Something about inference algorithms in Anglican)
-* 09/27 (Wed) - TBD
+* 09/25 (Mon) - TBD 
+* 09/27 (Wed) - TBD 
 * 10/02 (Mon) - TBD
 * 10/04 (Wed) - **NO LECTURE**
 * 10/09 (Mon) - **NO LECTURE**
@@ -82,12 +82,12 @@ interview sessions with project groups. Here is our current plan:
 * 11/01 (Wed) - TBD
 * 11/06 (Mon) - TBD
 * 11/08 (Wed) - TBD
-* 11/13 (Mon) - TBD
+* 11/13 (Mon) - Student Presentation and Follow-up Discussion 1
 * 11/15 (Wed) - **NO LECTURE**
-* 11/20 (Mon) - TBD
-* 11/22 (wed) - TBD
-* 11/27 (Mon) - Project Presentation 1
-* 11/29 (Wed) - Project Presentation 2
+* 11/20 (Mon) - Student Presentation and Follow-up Discussion 2
+* 11/22 (wed) - Student Presentation and Follow-up Discussion 3
+* 11/27 (Mon) - Student Presentation and Follow-up Discussion 4
+* 11/29 (Wed) - TBD
 * 12/04 (Mon) - TBD
 * 12/06 (Wed) - Conclusion
 * 12/11 (Mon) - **NO LECTURE**
@@ -95,9 +95,52 @@ interview sessions with project groups. Here is our current plan:
 
 ## References
 
+Unfortunately we do not know of a textbook that fits the topics of this course exactly.
+
+
+Papers on applications.
+
+* Human-level Concept Learning Through Probabilistic Program Induction. Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Science. [PDF](http://science.sciencemag.org/content/sci/350/6266/1332.full.pdf)
+
+* Picture: A Probabilistic Programming Language for Scene Perception. Kulkarni, T., Kohli, P., Tenenbaum, J., & Mansinghka, V. (2015). In Proceedings of CVPR 2015. [PDF](https://mrkulk.github.io/www_cvpr15/1999.pdf)
+
+* A Probabilistic Programming Approach To Probabilistic Data Analysis. 
+Saad, F., & Mansinghka, V. (2016). In Proceedings of NIPS 2016. [PDF](https://papers.nips.cc/paper/6060-a-probabilistic-programming-approach-to-probabilistic-data-analysis.pdf)
+
+* Detecting Dependencies in Sparse, Multivariate Databases Using Probabilistic Programming and Non-parametric Bayes. Saad, F., & Mansinghka, V. (2017). In Proceedings of AISTATS 2017. [PDF](http://proceedings.mlr.press/v54/saad17a/saad17a.pdf).
+
+Papers on inference algorithms.
+
+* Inference Compilation and Universal Probabilistic Programming. 
+Le, T. A., Baydin, A. G., & Wood, F. (2017). In Proceedings of AISTATS 2017.
+[PDF](https://arxiv.org/pdf/1610.09900.pdf).
+
+* Bayesian Optimization for Probabilistic Programs. 
+Rainforth, T., Le, T. A., van de Meent, J.-W., Osborne, M. A., & Wood, F. (2016). 
+In Proceedings of NIPS 2016. [PDF for short version](http://www.robots.ox.ac.uk/~fwood/assets/pdf/rainforth-nips-2016.pdf). [PDF for long version](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2016BOPP.pdf).
+
+* Design and Implementation of Probabilistic Programming Language Anglican. 
+Tolpin, D., van de Meent, J.-W., Yang, H., & Wood, F. (2016). 
+In Proceedings of IFL 2016. [PDF](https://arxiv.org/pdf/1608.05263.pdf).
+
+Papers on semantics.
+
+* Semantics for Probabilistic Programming: Higher-order Functions, Continuous Distributions, and Soft Constraints. Staton, S., Yang, H., Heunen, C., Kammar, O., & Wood, F. (2016). 
+In Proceedings of LICS 2016. [PDF](https://arxiv.org/pdf/1601.04943.pdf).
+
+* Commutative Semantics for Probabilistic Programming.  Staton, S. (2017). In Proceedings of ESOP 2017. [PDF](http://www.cs.ox.ac.uk/people/samuel.staton/papers/esop2017.pdf).
+
+* A Convenient Category for Higher-Order Probability Theory. Heunen, C., Kammar O., Staton, S., & Yang, H. (2017). In Proceedings of LICS 2017. [PDF](https://arxiv.org/pdf/1701.02547.pdf).
+
+
+
 ## Group Activities
 
 2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
 
 Track A:
 Track B:
+
+* Automated differentiation 
+* Automatic model criticism and revision
+* 
