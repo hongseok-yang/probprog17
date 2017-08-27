@@ -133,7 +133,7 @@ project group, and they will carry out a project in Track A or in Track B:
 
 3. **Renyi-Divergence-Based Black-box Variational Inference for Probabilistic Programs.** A black-box variational inference (BBVI) is a powerful technique for computing an approximate posterior distribution of a probabilistic model. The standard BBVI has been implemented in Anglican, and it has played a crucial role for using Anglican for solving challenging stochastic planning problems. Our goal is to implement a recent variant of BBVI based on Renyi divergence for Anglican, and to analyse its cons and pros experimentally. The related papers are [the original BBVI paper](http://www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf), [the Reni-divergence variational inference paper](https://arxiv.org/pdf/1602.02311.pdf), and [this paper on BBVI in Anglican](http://www.robots.ox.ac.uk/~fwood/assets/pdf/vandemeent16.pdf).
 
-4. **Semantic problems.**
+4. **Comparing Cartesian Product of Quasi-Borel Spaces with That of Measurable Spaces.** This is a math problem. In the course, we will present quasi-Borel spaces and use them to set a new foundation of probability theory. Then, we will explain why this new foundation is more suitable for describing Anglican programs than the standard foundation based on measurable spaces. One of the reasons is that the cartesian product of quasi-Borel spaces is different from that of measurable spaces. Although this difference is known, however, we lack concrete examples that show this difference concretely. The goal here is to find such examples and to try to say something general about those examples. [Hongseok's LICS'17 paper](https://arxiv.org/pdf/1701.02547.pdf) is a good entry for this topic.
 
 4. Automated Differentiation.
 
