@@ -38,7 +38,7 @@ Final exam (40%). Project (40%). Homework (20%).
 * Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr)
 * TA: Byungsu Kim (email: bskim90@kaist.ac.kr)
 
-## Place and Time
+### Place and Time
 
 * Place: Room 2443 in the E3 Building
 * Time: 9:00 - 10:15 on Monday and Wednesday from August 28 2017 until December 15 2017.
