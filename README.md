@@ -28,9 +28,11 @@ programming languages, and probability theory.
 Through a group project, students will be given a chance to study such a result
 and to play with it.
 
-## 1. Announcements
+## 1. Important Announcements
 
-#### [August 27 2017] 1. Missing lectures and interview sessions.
+#### [August 27 2017] 1. Form a project group.
+
+#### [August 27 2017] 2. Missing lectures and meetings with each project group.
 
 There will be no lectures on the following dates:
 1. September 4 (Mon) and September 6 (Wed) - Business Trip
@@ -41,8 +43,7 @@ There will be no lectures on the following dates:
 6. December 11 (Mon) and December 13 (Wed) - Final Exam Period
 
 Instead of the four missing lectures, Hongseok plans to have three meetings
-with each project group for about 30 minutes (assuming that there are at
-most 6 groups). These meetings will happen as follows:
+with each project group for about 30 minutes. These meetings will take place as follows:
 1. 7:00pm - 9:00pm on September 21 and 22 (Thu and Fri).
 2. 7:00pm - 9:00pm on October 26 and 27 (Thu and Fri).
 3. 7:00pm - 9:00pm on November 09 and 10 (Thu and Fri).
@@ -74,13 +75,13 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 09/13 (Wed) - Generative Models in Anglican. (Tentative)
 * 09/18 (Mon) - Generative Models in Anglican. (Tentative)
 * 09/20 (Wed) - Markov Chain Monte Carlo (MCMC). (Tentative)
-* __**09/21-22 (Thu,Fri) - Interview with project groups**__ 
+* __**09/21-22 (Thu,Fri) - MEETINGS with project groups**__ 
 * 09/25 (Mon) - CPS Transformation and Implementation of MCMC for Probabilsitic Programs. (Tenative)
 * 09/27 (Wed) - CPS Transformation and Implementation of MCMC for Probabilistic Programs. (Tentative)
 * 10/02 (Mon) - Sequential Monte Carlo. (Tentative)
-* 10/04 (Wed), 10/09 (Mon) - **NO LECTURE**
+* 10/04 (Wed), 10/09 (Mon) - **NO LECTURES**
 * 10/11 (Wed) - Sequential Monte Carlo. (Tentative)
-* 10/16 (Mon), 10/18 (Wed) - **NO LECTURE**
+* 10/16 (Mon), 10/18 (Wed) - **NO LECTURES**
 * 10/23 (Mon) - Basic Measure Theory. (Tentative)
 * 10/25 (Wed) - Denotational Semantics of Probabilistic Programs. (Tentative)
 * __**10/26-27 (Thu,Fri) - MEETINGS with project groups**__
@@ -88,7 +89,7 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 11/01 (Wed) - Denotational Semantics of Probabilistic Programs. (Tentative)
 * 11/06 (Mon) - Advanced Inference Algorithms. (Tentative)
 * 11/08 (Wed) - Advanced Inference Algorithms. (Tentative)
-* __**11/09-10 (Thu,Fri) - Interview with project groups**__
+* __**11/09-10 (Thu,Fri) - MEETINGS with project groups**__
 * 11/13 (Mon), 11/15 (Wed) - **NO LECTURE**
 * 11/20 (Mon) - Advanced Inference Algorithms. (Tentative)
 * 11/22 (Wed) - Group Presentation and Follow-up Discussion
