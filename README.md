@@ -1,7 +1,7 @@
 # CS492 Probabilistic Programming, Fall 2017, KAIST 
 
-This is a website for the course "CS492 Probabilistic Programming", which is offered 
-at the KAIST CS department in the fall of 2017. The website will contain lecture slides
+This is a web site for the course "CS492 Probabilistic Programming", which is offered 
+at the KAIST CS department in the fall of 2017. The web site will contain lecture slides
 and other course-related materials.
 
 Probabilistic programming refers to the idea of developing a programming 
@@ -105,9 +105,9 @@ Look at the announcements for the cancelled lectures and the additional meetings
 Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of this course is likely to be the most time-efficient way to catch up with this course. Additionally, we suggest
 the following materials:
 
-* Webpage of Anglican. [LINK](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, we recommend to try examples. 
-* Goodman and Stuhlmuller's book "The Design and Implementation of Probabilistic Programming Languages". [PDF](http://dippl.org/). This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
-* 
+1. Anglican web site. ([link](http://www.robots.ox.ac.uk/~fwood/anglican/)). In particular, students will learn a lot by trying examples in the site.
+
+2. Goodman and Stuhlmuller's book "The Design and Implementation of Probabilistic Programming Languages". [PDF](http://dippl.org/). This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
 
 ## Group Activities
 
