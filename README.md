@@ -93,12 +93,29 @@ interview sessions with project groups. Here is our current plan:
 * 12/11 (Mon) - **NO LECTURE**
 * 12/13 (Wed) - **NO LECTURE**
 
-## References
+## Studying Materials
 
-Unfortunately we do not know of a textbook that fits the topics of this course exactly.
+Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of this course is likely to be the most time-efficient way to catch up with this course. Additionally, we suggest
+the following materials:
 
+* Webpage of Anglican. [LINK](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, we recommend to try examples. 
+* Goodman and Stuhlmuller's book "The Design and Implementation of Probabilistic Programming Languages". [PDF](http://dippl.org/). This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
+* 
+
+## Group Activities
+
+2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
+
+Track A:
+Track B:
+
+* Automated differentiation 
+* Automatic model criticism and revision
+* 
 
 Papers on applications.
+
+* Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs. Stuhlmuller, A., & Goodman, N. D. (2014). Cognitive Systems Research. [PDF](http://ac.els-cdn.com/S1389041713000387/1-s2.0-S1389041713000387-main.pdf?_tid=ccc56dc0-8ad0-11e7-b2eb-00000aacb35e&acdnat=1503801685_7dbb093f8f7c45aa3334424c07f5349d)
 
 * Human-level Concept Learning Through Probabilistic Program Induction. Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Science. [PDF](http://science.sciencemag.org/content/sci/350/6266/1332.full.pdf)
 
@@ -134,13 +151,3 @@ In Proceedings of LICS 2016. [PDF](https://arxiv.org/pdf/1601.04943.pdf).
 
 
 
-## Group Activities
-
-2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
-
-Track A:
-Track B:
-
-* Automated differentiation 
-* Automatic model criticism and revision
-* 
