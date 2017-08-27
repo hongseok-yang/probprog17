@@ -28,7 +28,7 @@ programming languages, and probability theory.
 Through a group project, students will be given a chance to study such a result
 and to play with it.
 
-# Announcements
+## 1. Announcements
 
 #### [August 27 2017] 1. Missing lectures and interview sessions.
 
@@ -44,9 +44,9 @@ Instead of the four missing lectures, I plan to schedule three four-hour
 interview sessions with project groups. Here is our current plan:
 1. 7:00pm - 9:00pm on September 21 and 22 (Thu and Fri).
 2. 7:00pm - 9:00pm on October 26 and 27 (Thu and Fri).
-3. 7:00pm - 9:00pm on November 26 and 27 (Thu and Fri).
+3. 7:00pm - 9:00pm on November 09 and 10 (Thu and Fri).
 
-## Logistics
+## 2. Logistics
 
 #### Evaluation
 
@@ -64,21 +64,21 @@ Final exam (40%). Project (40%). Homework (20%).
 
 Look at the announcements for the cancelled lectures and the additional meetings.
 
-# Tentative Plan
+## 3. Tentative Plan
 
 * 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
 * 09/04 (Mon) - **NO LECTURE** 
 * 09/06 (Wed) - **NO LECTURE**
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
-* 09/13 (Wed) - TBD 
-* 09/18 (Mon) - TBD
-* 09/20 (Wed) - TBD
+* 09/13 (Wed) - Generative Models. (Tentative)
+* 09/18 (Mon) - Markov Chain Monte Carlo (MCMC). (Tentative)
+* 09/20 (Wed) - CPS Transformation and Implementation of MCMC for Probabilsitic Programs. (Tenative)
 * __**09/21 (Thu)**__ - Interview with project groups
 * __**09/22 (Fri)**__ - Interview with project groups
-* 09/25 (Mon) - TBD 
-* 09/27 (Wed) - TBD 
-* 10/02 (Mon) - TBD
+* 09/25 (Mon) - CPS Transformation and Implementation of MCMC for Probabilsitic Programs. (Tenative)
+* 09/27 (Wed) - Advanced Inference Algorithms.
+* 10/02 (Mon) - Advanced Inference Algorithms.
 * 10/04 (Wed) - **NO LECTURE**
 * 10/09 (Mon) - **NO LECTURE**
 * 10/11 (Wed) - TBD
@@ -92,14 +92,16 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 11/01 (Wed) - TBD
 * 11/06 (Mon) - TBD
 * 11/08 (Wed) - TBD
+* __**11/09 (Thu)**__ - Interview with project groups
+* __**11/10 (Fri)**__ - Interview with project groups
 * 11/13 (Mon) - **NO LECTURE**
 * 11/15 (Wed) - **NO LECTURE**
-* 11/20 (Mon) - Amortised inference
-* 11/22 (wed) - Amortised inference
-* 11/27 (Mon) - Amortised Student Presentation and Follow-up Discussion 4
-* 11/29 (Wed) - TBD
-* 12/04 (Mon) - Amortised Inference (Tentative)
-* 12/06 (Wed) - Amortised Inference (Tentative)
+* 11/20 (Mon) - 
+* 11/22 (wed) - Group Presentation and Follow-up Discussion
+* 11/27 (Mon) - Group Presentation and Follow-up Discussion
+* 11/29 (Wed) - Group Presentation and Follow-up Discussion
+* 12/04 (Mon) - Group Presentation and Follow-up Discussion
+* 12/06 (Wed) - Group Presentation and Follow-up Discussion
 * 12/11 (Mon) - **NO LECTURE**
 * 12/13 (Wed) - **NO LECTURE**
 
