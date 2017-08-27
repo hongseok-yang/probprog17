@@ -1,36 +1,36 @@
 # CS492 Probabilistic Programming, Fall 2017, KAIST 
 
-This is a web site for the course "CS492 Probabilistic Programming", which is offered 
-at the KAIST CS department in the fall of 2017. The web site will contain lecture slides
+This is a website for the course "CS492 Probabilistic Programming", which is offered 
+at the KAIST CS department in the fall of 2017. The website will contain lecture slides
 and other course-related materials.
 
 Probabilistic programming refers to the idea of developing a programming 
 language for writing and reasoning about probabilistic models from machine learning 
 and statistics. Such a language comes with the implementation of several generic
-inference algorithms which can answer various queries about the models written 
+inference algorithms that answer various queries about the models written 
 in the language, such as posterior inference and marginalisation. By providing these
 algorithms, a probabilistic programming language
-enables data scientists to focus on using their domain expertise and
-building good models, not designing 
-effective algorithms of their models, which often requires deep knowledge
+enables data scientists to focus on designing good models based on their domain knowledge,
+instead of building effective inference engines for their models, a task that 
+typically requires expertise
 in machine learning, statistics and systems. Even experts in machine learning
-and statistics can get benefitted from such a probabilistic programming system
+and statistics may get benefitted from such a probabilistic programming system
 because using the system they can easily explore highly advanced models.
 
 This course has two goals. The first is to help students to be a good user
 of an expressive probabilistic programming language. 
-Throughout the course, we will use a particular probabilistic
-programming language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/),
+Throughout the course, we will use a particular 
+language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/),
 but we will emphasise general principles that apply to a wide range of existing probabilistic
 programming systems. The second goal is to expose the students to recent exciting results
 in probabilistic programming, which come from machine learning, statistics, 
 programming languages, and probability theory. 
-Through a group project, students will be given a chance to study one such result,
-to present what they learn, and to ponder over the result.
+Through a group project, students will be given a chance to study such a result
+and to play with it.
 
 ## Announcements
 
-#### [27 August 2017] Cancelled lectures and interview sessions.
+#### [27 August 2017] Missing lectures and interview sessions.
 
 There will be no lectures on the following dates:
 1. September 4 (Mon) and September 6 (Wed) - Business Trip
@@ -104,7 +104,7 @@ Look at the announcements for the cancelled lectures and the additional meetings
 
 Unfortunately we do not know of a good textbook that matches the topics of this course exactly.Studying the lecture slides and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Additionally, we suggest the following list of online materials.
 
-1. [Anglican web site](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, students will learn a lot by trying examples in the site.
+1. [Anglican website](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, students will learn a lot by trying examples in the site.
 
 2. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)" This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
 
@@ -121,7 +121,11 @@ Track B:
 
 * Automated differentiation 
 * Automatic model criticism and revision
-* 
+* Program induction
+* Amortised inference
+* Semantic challenges
+* Interesting applciations of probabilistic programs
+* Challeging models 
 
 Papers on applications.
 
