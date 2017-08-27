@@ -110,7 +110,23 @@ Unfortunately we do not know of a good textbook that matches the topics of this 
 
 ## 5. Group Project
 
-2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
+The group project is a crucial part of this course. 2-3 students should form a 
+project group, and they have to follow either Track A or Track B:
+
+1. Track A: A group develops an interesting application of Anglican or 
+other probabilistic programming languages. It may attempt to find an efficient encoding of 
+a highly complex probabilistic model (such as sequence memoizer) in Anglican,  
+or it may try to find a novel use of probabilistic programming for solving
+well-known existing problems (such as figuring out secret key in some security protocol).
+2. Track B: A group does small-scale research on probabilistic programming. It
+may choose to study a recent result on probabilistic programming or a related area,
+and attempt to extend the result. Or it may consider a research question on 
+probabilistic programming, and try to come up with an answer. We will suggest
+a few results and questions, although each group is free to choose one of its own.
+
+
+
+people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
 
 Track A:
 Track B:
