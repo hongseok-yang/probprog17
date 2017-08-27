@@ -47,19 +47,21 @@ interview sessions with project groups. Here is our current plan:
 
 ## Logistics
 
-### Evaluation
+#### Evaluation
 
 Final exam (40%). Project (40%). Homework (20%).
 
-### Teaching Staffs
+#### Teaching Staffs
 
 * Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr)
 * TA: Byungsu Kim (email: bskim90@kaist.ac.kr)
 
-### Place and Time
+#### Place and Time
 
 * Place: Room 2443 in the E3 Building
-* Time: 9:00 - 10:15 on Monday and Wednesday from August 28 2017 until December 15 2017.
+* Time: 9:00 - 10:15 on Monday and Wednesday from August 28 2017 until December 15 2017. 
+
+Look at the announcements for the cancelled lectures and the additional meetings.
 
 ## Tentative Plan
 
