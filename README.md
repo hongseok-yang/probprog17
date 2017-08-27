@@ -1,10 +1,24 @@
 # CS492 Probabilistic Programming, Fall 2017, KAIST 
 
-This is a website for the course ``CS492 Probabilistic Programming'', which is offered 
+This is a website for the course "CS492 Probabilistic Programming", which is offered 
 at the KAIST CS department in the fall of 2017. The website will contain lecture slides
 and other course-related materials.
 
-## Overview and List of Topics (Tentative)
+Probabilistic programming refers to the idea of developing an expressive programming 
+language for writing and reasoning about probabilistic models from machine learning 
+and statistics. Such a language comes with the implementation of several generic
+inference algorithms, which can answer various queries about the models written 
+in the language, such as posterior estimation and marginalisation. In doing so, it 
+enables data scientists to focus on building good models, not designing 
+effective algorithms of their models.
+
+The goals of this course are to help students to learn how to use an
+expressive probabilistic programming language and to expose them to recent exciting results
+in this area, which come from machine learning, statistics, programming languages,
+and probability theory. Throughout the course, we will use a particular probabilistic
+programming language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/),
+but we will emphasise general principles that apply to a wide range of existing probabilistic
+programming systems.
 
 ## Evaluation
 
@@ -74,7 +88,7 @@ interview sessions with project groups. Here is our current plan:
 
 ## Group Activities
 
-2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presenation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommedation, not a requirement.
+2-3 people form a group and have to do two main tasks. The first is to select a recent paper on probabilistic programming or a related topic, and to give a 30-min presentation on the selected paper. The second is to carry out a project on building a cool application of probabilistic programming, or on extending existing results slightly. This extension neither has to be grand nor has to produce better algorithms in terms of performance than existing ones, as long as it is analyzed and carried out thoughtfully. In an ideal world, both activities are related; a group reads a paper, presents it, and works on extending the results in the paper. This ideal is, however, just a recommendation, not a requirement.
 
 Track A:
 Track B:
