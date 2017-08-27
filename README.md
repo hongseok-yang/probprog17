@@ -4,21 +4,30 @@ This is a website for the course "CS492 Probabilistic Programming", which is off
 at the KAIST CS department in the fall of 2017. The website will contain lecture slides
 and other course-related materials.
 
-Probabilistic programming refers to the idea of developing an expressive programming 
+Probabilistic programming refers to the idea of developing a programming 
 language for writing and reasoning about probabilistic models from machine learning 
 and statistics. Such a language comes with the implementation of several generic
-inference algorithms, which can answer various queries about the models written 
-in the language, such as posterior estimation and marginalisation. In doing so, it 
-enables data scientists to focus on building good models, not designing 
-effective algorithms of their models.
+inference algorithms which can answer various queries about the models written 
+in the language, such as posterior inference and marginalisation. By providing these
+algorithms, a probabilistic programming language
+enables data scientists to focus on using their domain expertise and
+building good models, not designing 
+effective algorithms of their models, which often requires deep knowledge
+in machine learning, statistics and systems. Even experts in machine learning
+and statistics can get benefitted from such a probabilistic programming system
+because using the system they can easily explore highly advanced models.
 
-The goals of this course are to help students to learn how to use an
-expressive probabilistic programming language and to expose them to recent exciting results
-in this area, which come from machine learning, statistics, programming languages,
-and probability theory. Throughout the course, we will use a particular probabilistic
+This course has two goals. The first is to help students to be a good user
+of an expressive probabilistic programming language. 
+Throughout the course, we will use a particular probabilistic
 programming language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/),
 but we will emphasise general principles that apply to a wide range of existing probabilistic
-programming systems.
+programming systems. The second goal is to expose the students to recent exciting results
+in probabilistic programming, which come from machine learning, statistics, 
+programming languages, and probability theory. 
+Through a group project, students will be given a chance to study one such result,
+to present what they learn, and to ponder over the result.
+
 
 ## Evaluation
 
