@@ -72,32 +72,32 @@ Look at the announcements for the cancelled lectures and the additional meetings
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
 * __**09/04 (Mon), 09/05 (Wed) - NO LECTURES.**__ 
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
-* 09/13 (Wed) - Generative Models in Anglican. (Tentative)
-* 09/18 (Mon) - Generative Models in Anglican. (Tentative)
-* 09/20 (Wed) - Markov Chain Monte Carlo (MCMC). (Tentative)
+* 09/13 (Wed) - [Tentative] Generative Models in Anglican.
+* 09/18 (Mon) - [Tentative] Generative Models in Anglican. 
+* 09/20 (Wed) - [Tentative] Markov Chain Monte Carlo (MCMC). 
 * __**09/21-22 (Thu,Fri) - EVENING MEETINGS with project groups.**__ 
-* 09/25 (Mon) - CPS Transformation and Implementation of MCMC for Probabilsitic Programs. (Tenative)
-* 09/27 (Wed) - CPS Transformation and Implementation of MCMC for Probabilistic Programs. (Tentative)
-* 10/02 (Mon) - Sequential Monte Carlo. (Tentative)
+* 09/25 (Mon) - [Tentative] CPS Transformation and Implementation of MCMC for Probabilsitic Programs. 
+* 09/27 (Wed) - [Tentative] CPS Transformation and Implementation of MCMC for Probabilistic Programs. 
+* 10/02 (Mon) - [Tentative] Sequential Monte Carlo. 
 * __**10/04 (Wed), 10/09 (Mon) - NO LECTURES.**__
-* 10/11 (Wed) - Sequential Monte Carlo. (Tentative)
+* 10/11 (Wed) - [Tentative] Sequential Monte Carlo. 
 * __**10/16 (Mon), 10/18 (Wed) - NO LECTURES.**__
-* 10/23 (Mon) - Basic Measure Theory. (Tentative)
-* 10/25 (Wed) - Denotational Semantics of Probabilistic Programs. (Tentative)
+* 10/23 (Mon) - [Tentative] Basic Measure Theory.
+* 10/25 (Wed) - [Tentative] Denotational Semantics of Probabilistic Programs. 
 * __**10/26-27 (Thu,Fri) - EVENING MEETINGS with project groups.**__
-* 10/30 (Mon) - Denotational Semantics of Probabilistic Programs. (Tentative)
-* 11/01 (Wed) - Denotational Semantics of Probabilistic Programs. (Tentative)
-* 11/06 (Mon) - Advanced Inference Algorithms. (Tentative)
-* 11/08 (Wed) - Advanced Inference Algorithms. (Tentative)
+* 10/30 (Mon) - [Tentative] Denotational Semantics of Probabilistic Programs. 
+* 11/01 (Wed) - [Tentative] Denotational Semantics of Probabilistic Programs. 
+* 11/06 (Mon) - [Tentative] Advanced Inference Algorithms. 
+* 11/08 (Wed) - [Tentative] Advanced Inference Algorithms. 
 * __**11/09-10 (Thu,Fri) - EVENING MEETINGS with project groups.**__
 * __**11/13 (Mon), 11/15 (Wed) - NO LECTURES.**__
-* 11/20 (Mon) - Advanced Inference Algorithms. (Tentative)
-* 11/22 (Wed) - Group Presentation and Follow-up Discussion
-* 11/27 (Mon) - Group Presentation and Follow-up Discussion
-* 11/29 (Wed) - Group Presentation and Follow-up Discussion
-* 12/04 (Mon) - Group Presentation and Follow-up Discussion
-* 12/06 (Wed) - Group Presentation and Follow-up Discussion
-* __**12/11 (Mon), 12/13 (Wed) - NO LECTURES.**
+* 11/20 (Mon) - [Tentative] Advanced Inference Algorithms.
+* 11/22 (Wed) - [Tentative] Group Presentation and Follow-up Discussion. 
+* 11/27 (Mon) - [Tentative] Group Presentation and Follow-up Discussion. 
+* 11/29 (Wed) - [Tentative] Group Presentation and Follow-up Discussion.
+* 12/04 (Mon) - [Tentative] Group Presentation and Follow-up Discussion.
+* 12/06 (Wed) - [Tentative] Group Presentation and Follow-up Discussion.
+* __**12/11 (Mon), 12/13 (Wed) - NO LECTURES.**__
 
 ## 4. Studying Materials
 
