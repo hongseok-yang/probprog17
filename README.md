@@ -66,6 +66,10 @@ Final exam (40%). Project (40%). Homework (20%).
 
 Look at the announcements for the cancelled lectures and the additional meetings.
 
+#### Online Discussion
+
+The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs. Byungsoo's id is bskim90, and Hongseok's id in noah is hongseokyang.
+
 ## 3. Tentative Plan
 
 * 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
