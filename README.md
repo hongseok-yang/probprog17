@@ -51,7 +51,7 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 
 ## 3. Tentative Plan
 
-* 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf)
+* 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf) [Homework0.](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework0/homework0.pdf)
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
 * __**09/04 (Mon), 09/06 (Wed) - NO LECTURES.**__ 
 * 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
