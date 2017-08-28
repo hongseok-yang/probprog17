@@ -9,6 +9,11 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [August 29 2017] [Homework 0](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework0/homework0.pdf)
+is out.
+
+You don't have to submit your answer. But we strongly recommend you to try it. This homework will teach you how to run Anglican.
+
 #### [August 27 2017] 1. Form a project group.
 
 #### [August 27 2017] 2. Missing lectures and meetings with each project group.
