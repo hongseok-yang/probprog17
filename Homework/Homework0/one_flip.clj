@@ -1,6 +1,5 @@
 (use 'nstools.ns)
 (ns+ one-flip 
-     (:like anglican-user.program) 
      (:use [anglican.core :exclude [-main]] 
            [anglican emit runtime stat]) 
      (:gen-class))
