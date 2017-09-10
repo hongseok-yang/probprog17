@@ -58,8 +58,8 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf) [Homework0.](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework0/homework0.pdf)
 * 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
 * __**09/04 (Mon), 09/06 (Wed) - NO LECTURES.**__ 
-* 09/11 (Mon) - Posterior Inference and Basics of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
-* 09/13 (Wed) - [Tentative] Generative Models in Anglican.
+* 09/11 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
+* 09/13 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/18 (Mon) - [Tentative] Generative Models in Anglican. 
 * 09/20 (Wed) - [Tentative] Markov Chain Monte Carlo (MCMC). 
 * __**09/21-22 (Thu,Fri) - EVENING MEETINGS with project groups.**__ 
