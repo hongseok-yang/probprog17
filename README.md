@@ -40,7 +40,7 @@ Final exam (40%). Project (40%). Homework (20%).
 #### Teaching Staffs
 
 * Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr)
-* TA: Byungsoo Kim (email: bskim90@kaist.ac.kr)
+* TA: Byungsoo Kim (email: bskim90@kaist.ac.kr, office hour: 2:30pm - 5:30pm on Wednesday, at Room 403 in N1 Building)
 
 #### Place and Time
 
