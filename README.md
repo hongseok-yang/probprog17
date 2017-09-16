@@ -9,6 +9,31 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [September 16 2017] 1. No lecture on October 2.
+
+Since the government decided to make October 2 a holiday, there will be no lecture on that day. So, there will be no lectures on the following dates:
+
+1. October 2 (Mon) and October 4 (Wed) - Chuseok
+3. October 9 (Mon) - Hangul Proclamation Day
+4. October 16 (Mon) and October 18 (Wed) - Midterm Exam Period
+5. November 13 (Mon) and November 15 (Wed) - Business Trip
+6. December 11 (Mon) and December 13 (Wed) - Final Exam Period
+
+#### [September 16 2017] 2. Schedule of group interviews this week.
+
+As we announced, there will be individual group meetings with Hongseok
+on Thursday and Friday this week. Here is a tentative schedule.
+
+1. 7:00pm - 7:40pm on September 21 (Thu) : Donghyun, Hyunsoo, Hyunsoo
+2. 7:40pm - 8:20pm on September 21 (Thu) : Junoh, Sujin, Changwha
+3. 8:20pm - 9:00pm on September 21 (Thu) : Junghun, Wonyeol
+4. 7:00pm - 7:40pm on September 22 (Fri) : Junmin, Juhee
+5. 7:40pm - 8:20pm on September 22 (Fri) : Ly Le, Minkee, Junoh
+
+* place: E3-1, 3403 (Hongseok's office)
+
+If this schedule does not work, let us know it as soon as possible. Before each meeting, consider one or two possible topics of your project, or a few directions that you would like to pursue in your project. The goal of this meeting is to help you to pick a topic and to figure out what to do.
+
 #### [August 29 2017] [Homework 0](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework0/homework0.pdf) is out.
 
 You don't have to submit your answer. But we strongly recommend you to try it. This homework will teach you how to run Anglican.
@@ -65,8 +90,7 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * __**09/21-22 (Thu,Fri) - EVENING MEETINGS with project groups.**__ 
 * 09/25 (Mon) - [Tentative] CPS Transformation and Implementation of MCMC for Probabilsitic Programs. 
 * 09/27 (Wed) - [Tentative] CPS Transformation and Implementation of MCMC for Probabilistic Programs. 
-* 10/02 (Mon) - [Tentative] Sequential Monte Carlo. 
-* __**10/04 (Wed), 10/09 (Mon) - NO LECTURES.**__
+* __**10/02 (Mon), 10/04 (Wed), 10/09 (Mon) - NO LECTURES.**__
 * 10/11 (Wed) - [Tentative] Sequential Monte Carlo. 
 * __**10/16 (Mon), 10/18 (Wed) - NO LECTURES.**__
 * 10/23 (Mon) - [Tentative] Basic Measure Theory.
