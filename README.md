@@ -85,7 +85,7 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * __**09/04 (Mon), 09/06 (Wed) - NO LECTURES.**__ 
 * 09/11 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/13 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
-* 09/18 (Mon) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
+* 09/18 (Mon) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
 * 09/20 (Wed) - [Tentative] Markov Chain Monte Carlo (MCMC). 
 * __**09/21-22 (Thu,Fri) - EVENING MEETINGS with project groups.**__ 
 * 09/25 (Mon) - [Tentative] CPS Transformation and Implementation of MCMC for Probabilsitic Programs. 
