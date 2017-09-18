@@ -14,10 +14,10 @@ and to play with it.
 Since the government decided to make October 2 a holiday, there will be no lecture on that day. So, there will be no lectures on the following dates:
 
 1. October 2 (Mon) and October 4 (Wed) - Chuseok
-3. October 9 (Mon) - Hangul Proclamation Day
-4. October 16 (Mon) and October 18 (Wed) - Midterm Exam Period
-5. November 13 (Mon) and November 15 (Wed) - Business Trip
-6. December 11 (Mon) and December 13 (Wed) - Final Exam Period
+2. October 9 (Mon) - Hangul Proclamation Day
+3. October 16 (Mon) and October 18 (Wed) - Midterm Exam Period
+4. November 13 (Mon) and November 15 (Wed) - Business Trip
+5. December 11 (Mon) and December 13 (Wed) - Final Exam Period
 
 #### [September 16 2017] 2. Schedule of group interviews this week.
 
@@ -25,10 +25,10 @@ As we announced, there will be individual group meetings with Hongseok
 on Thursday and Friday this week. Here is a tentative schedule.
 
 1. 6:00pm - 6:40pm on September 21 (Thu) : Junmin, Juhee
-2. 7:00pm - 7:40pm on September 21 (Thu) : Donghyun, Hyunsoo, Hyunsoo
-3. 7:40pm - 8:20pm on September 21 (Thu) : Junoh, Sujin, Changwha
-4. 8:20pm - 9:00pm on September 21 (Thu) : Junghun, Wonyeol
-5. 7:00pm - 7:40pm on September 22 (Fri) : Ly Le, Minkee, Junoh
+2. 7:40pm - 8:20pm on September 21 (Thu) : Junoh, Sujin, Changwha
+3. 8:20pm - 9:00pm on September 21 (Thu) : Junghun, Wonyeol
+4. 7:00pm - 7:40pm on September 22 (Fri) : Ly Le, Minkee, Junoh
+5. 7:40pm - 8:20pm on September 21 (Thu) : Donghyun, Hyunsoo, Hyunsoo
 
 * place: E3-1, 3403 (Hongseok's office)
 
