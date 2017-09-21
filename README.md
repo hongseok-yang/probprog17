@@ -28,7 +28,7 @@ on Thursday and Friday this week. Here is a tentative schedule.
 2. 7:40pm - 8:20pm on September 21 (Thu) : Junoh, Sujin, Changwha
 3. 8:20pm - 9:00pm on September 21 (Thu) : Junghun, Wonyeol
 4. 7:00pm - 7:40pm on September 22 (Fri) : Ly Le, Minkee, Junoh
-5. 7:40pm - 8:20pm on September 21 (Thu) : Donghyun, Hyunsoo, Hyunsoo
+5. 7:40pm - 8:20pm on September 22 (Fri) : Donghyun, Hyunsoo, Hyunsoo
 
 * place: E3-1, 3403 (Hongseok's office)
 
