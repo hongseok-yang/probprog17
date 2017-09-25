@@ -9,6 +9,10 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [September 25 2017] 2D physics and program induction examples.
+
+These examples are available [here](https://github.com/hongseok-yang/probprog17/tree/master/Lectures/Lecture4). lecture4a.clj is a Gorilla worksheet for the 2D physics example, and lecture4b.clj is a worksheet for the program-induction example. To run the 2D physics example, you need to replace your project.clj file in the root directory of your anglican-user copy by the project.clj file from this repository. Also, you need to store the bounce.clj file under the src directory of your anglican-user copy.
+
 #### [September 16 2017] 1. No lecture on October 2.
 
 Since the government decided to make October 2 a holiday, there will be no lecture on that day. So, there will be no lectures on the following dates:
@@ -86,10 +90,10 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * 09/11 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/13 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
 * 09/18 (Mon) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
-* 09/20 (Wed) -  Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
+* 09/20 (Wed) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
 * __**09/21-22 (Thu,Fri) - EVENING MEETINGS with project groups.**__ 
-* 09/25 (Mon) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
-* 09/27 (Wed) - [Tentative] CPS Transformation and Implementation of MCMC for Probabilistic Programs. 
+* 09/25 (Mon) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
+* 09/27 (Wed) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
 * __**10/02 (Mon), 10/04 (Wed), 10/09 (Mon) - NO LECTURES.**__
 * 10/11 (Wed) - [Tentative] Sequential Monte Carlo. 
 * __**10/16 (Mon), 10/18 (Wed) - NO LECTURES.**__
