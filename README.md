@@ -97,10 +97,10 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * 09/25 (Mon) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
 * 09/27 (Wed) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
 * __**10/02 (Mon), 10/04 (Wed), 10/09 (Mon) - NO LECTURES.**__
-* 10/11 (Wed) - [Tentative] Sequential Monte Carlo. 
+* 10/11 (Wed) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
 * __**10/16 (Mon), 10/18 (Wed) - NO LECTURES.**__
-* 10/23 (Mon) - [Tentative] Basic Measure Theory.
-* 10/25 (Wed) - [Tentative] Denotational Semantics of Probabilistic Programs. 
+* 10/23 (Wed) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
+* 10/25 (Wed) - [Tentative] Implementation of Inference Algorithms for Probabilistic Programs. 
 * __**10/26-27 (Thu,Fri) - EVENING MEETINGS with project groups.**__
 * 10/30 (Mon) - [Tentative] Denotational Semantics of Probabilistic Programs. 
 * 11/01 (Wed) - [Tentative] Denotational Semantics of Probabilistic Programs. 
