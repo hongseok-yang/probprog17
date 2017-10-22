@@ -9,6 +9,8 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [October 22 2017] [Homework 1](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework1/homework1.pdf) is out. Submit your solutions to the TA (Byungsoo) by 2:00pm on 6 November (Monday).
+
 #### [September 25 2017] 2D physics and program induction examples.
 
 These examples (lecture4a.clj and lecture4b.clj) and two helper files (project.clj and bounce.clj) are available [here](https://github.com/hongseok-yang/probprog17/tree/master/Lectures/Lecture4). lecture4a.clj is a Gorilla worksheet for the 2D physics example, and lecture4b.clj is a worksheet for the program-induction example. To run the 2D physics example, you need to replace your project.clj file in the root directory of your anglican-user clone by the project.clj file from this webpage. Also, you need to store the bounce.clj file under the src directory of your anglican-user clone.
