@@ -9,6 +9,17 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [October 25 2017] Schedule of group interview this week.
+
+As we announced, there will be individual group meetings with Hongseok
+on Thursday and Friday this week. Here is a tentative schedule.
+
+1. 6:00pm - 6:40pm on October 26 (Thu) : Junmin, Juhee
+2. 7:40pm - 8:20pm on October 26 (Thu) : Junoh, Sujin, Changwha
+3. 8:20pm - 9:00pm on October 26 (Thu) : Junghun, Wonyeol
+4. 7:00pm - 7:40pm on October 27 (Fri) : Ly Le, Minkee, Junoh
+5. 7:40pm - 8:20pm on October 27 (Fri) : Donghyun, Hyunsoo, Hyunsoo
+
 #### [October 22 2017] [Homework 1](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework1/homework1.pdf) is out. Submit your solutions to the TA (Byungsoo) by 2:00pm on 6 November (Monday).
 
 #### [September 25 2017] 2D physics and program induction examples.
