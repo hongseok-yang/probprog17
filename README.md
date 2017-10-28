@@ -9,6 +9,8 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [October 28 2017] The lecture on 29 November (Wed) is cancelled due to the university-wide undergraduate interview. 
+
 #### [October 25 2017] Schedule of group interview this week.
 
 As we announced, there will be individual group meetings with Hongseok
@@ -122,7 +124,7 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * 11/20 (Mon) - [Tentative] Advanced Inference Algorithms.
 * 11/22 (Wed) - [Tentative] Advanced Inference Algorithms.
 * 11/27 (Mon) - [Tentative] Project Presentation and Discussion. 
-* 11/29 (Wed) - [Tentative] Project Presentation and Discussion.
+* __**11/29 (Wed) - NO LECTURE.**__
 * 12/04 (Mon) - [Tentative] Project Presentation and Discussion.
 * 12/06 (Wed) - [Tentative] Project Presentation and Discussion.
 * __**12/11 (Mon), 12/13 (Wed) - NO LECTURES.**__
