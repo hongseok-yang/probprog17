@@ -9,6 +9,9 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [November 2 2017] The last evening meetings with project groups
+were moved from 9-10 November to 23-24 November.
+
 #### [October 28 2017] The lecture on 29 November (Wed) is cancelled due to the university-wide undergraduate interview. 
 
 #### [October 25 2017] Schedule of group interview this week.
@@ -115,17 +118,17 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * 10/23 (Mon) - Markov Chain Monte Carlo. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
 * 10/25 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
 * __**10/26-27 (Thu,Fri) - EVENING MEETINGS with project groups.**__
-* 10/30 (Mon) - [Tentative] Denotational Semantics of Probabilistic Programs. 
-* 11/01 (Wed) - [Tentative] Denotational Semantics of Probabilistic Programs. 
-* 11/06 (Mon) - [Tentative] Advanced Inference Algorithms. 
-* 11/08 (Wed) - [Tentative] Advanced Inference Algorithms. 
-* __**11/09-10 (Thu,Fri) - EVENING MEETINGS with project groups.**__
+* 10/30 (Mon) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
+* 11/01 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
+* 11/06 (Mon) - [Tentative] Denotational Semantics of Probabilistic Programs.
+* 11/08 (Wed) - [Tentative] Denotational Semantics of Probabilistic Programs.
 * __**11/13 (Mon), 11/15 (Wed) - NO LECTURES.**__
-* 11/20 (Mon) - [Tentative] Advanced Inference Algorithms.
+* 11/20 (Mon) - [Tentative] Denotational Semantics of Probabilistic Programs.
 * 11/22 (Wed) - [Tentative] Advanced Inference Algorithms.
-* 11/27 (Mon) - [Tentative] Project Presentation and Discussion. 
+* __**11/23-24 (Thu,Fri) - EVENING MEETINGS with project groups.**__
+* 11/27 (Mon) - [Tentative] Advanced Inference Algorithms.
 * __**11/29 (Wed) - NO LECTURE.**__
-* 12/04 (Mon) - [Tentative] Project Presentation and Discussion.
+* 12/04 (Mon) - [Tentative] Advanced Inference Algorithms.
 * 12/06 (Wed) - [Tentative] Project Presentation and Discussion.
 * __**12/11 (Mon), 12/13 (Wed) - NO LECTURES.**__
 
