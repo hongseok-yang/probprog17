@@ -9,7 +9,7 @@ and to play with it.
 
 ## 1. Important Announcements
 
-#### [October 22 2017] [Homework 2](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework2/homework2.pdf) is out. Submit your solutions to the TA (Byungsoo) by 2:00pm on 22 November (Wednesday).
+#### [November 7 2017] [Homework 2](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework2/homework2.pdf) is out. Submit your solutions to the TA (Byungsoo) by 2:00pm on 22 November (Wednesday).
 
 #### [November 2 2017] The last evening meetings with project groups
 were moved from 9-10 November to 23-24 November.
