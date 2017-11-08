@@ -124,8 +124,8 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * __**10/26-27 (Thu,Fri) - EVENING MEETINGS with project groups.**__
 * 10/30 (Mon) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
 * 11/01 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
-* 11/06 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) 
-* 11/08 (Wed) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) 
+* 11/06 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
+* 11/08 (Wed) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
 * __**11/13 (Mon), 11/15 (Wed) - NO LECTURES.**__
 * 11/20 (Mon) - [Tentative] Denotational Semantics of Probabilistic Programs.
 * 11/22 (Wed) - [Tentative] Advanced Inference Algorithms.
