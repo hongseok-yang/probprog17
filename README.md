@@ -23,7 +23,7 @@ There will be a final meeting between me and each project group this week. The s
 
 The KAIST undergraduate interview is postponed for a week because of earthquake. So, there is an adjustment of the schedule of the course. The new schedule is now in the course web page. Here are two important points:
 
-1. We will have a lecture on 29 November, but will not have one on 6 December. This is due to the delay of the KAIST undergraduate interview for a week.
+1. We will have a lecture on 29 November, but will not have one on 6 December, on which there will be undergraduate interviews in KAIST.
 2. Each project group will have to give a 15-min presentation on 4 December instead of 6 December.
 
 #### [November 8 2017] There will be no lectures on 13 and 15 November. The evening group meetings were postponed to 23 and 24 November.
