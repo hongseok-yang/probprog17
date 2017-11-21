@@ -13,11 +13,11 @@ and to play with it.
 
 There will be a final meeting between me and each project group this week. The schedule is similar to the one before.
 
-1. 6:00pm - 6:40pm on November 23 (Thu) : Junmin, Juhee
-2. 7:40pm - 8:20pm on November 23 (Thu) : Junoh, Sujin, Changwha
-3. 8:20pm - 9:00pm on November 23 (Thu) : Junghun, Wonyeol
-4. 7:00pm - 7:40pm on November 24 (Fri) : Ly Le, Minkee, Junoh
-5. 7:40pm - 8:20pm on November 24 (Fri) : Donghyun, Hyunsoo, Hyunsoo
+1. 7:40pm - 8:20pm on November 23 (Thu) : Junoh, Sujin, Changwha
+2. 8:20pm - 9:00pm on November 23 (Thu) : Junghun, Wonyeol
+3. 7:00pm - 7:40pm on November 24 (Fri) : Ly Le, Minkee, Junoh
+4. 7:40pm - 8:20pm on November 24 (Fri) : Donghyun, Hyunsoo, Hyunsoo
+5. 8:20pm - 9:00pm on November 23 (Fri) : Junmin, Juhee
 
 #### [November 19 2017] 2. Change in the schedule due to the change in the KAIST undergraduate interview.
 
