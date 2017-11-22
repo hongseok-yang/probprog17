@@ -9,6 +9,8 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [November 22 2017] [Homework 3](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework3/homework3.pdf) is out. Submit your solutions to the TA (Byungsoo) by 2:00pm on 6 December (Wednesday).
+
 #### [November 19 2017] 1. Project meeting this week.
 
 There will be a final meeting between me and each project group this week. The schedule is similar to the one before.
