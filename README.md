@@ -149,8 +149,8 @@ The course has a [board](https://noah.kaist.ac.kr/course/CS492) in the noab bbs.
 * 11/20 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
 * 11/22 (Wed) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
 * __**11/23-24 (Thu,Fri) - EVENING MEETINGS with project groups.**__
-* 11/27 (Mon) - Amortised Inference.
-* 11/29 (Wed) - Amortised Inference.
+* 11/27 (Mon) - Amortised Inference. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture8/Lecture8.pdf) 
+* 11/29 (Wed) - Amortised Inference. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture8/Lecture8.pdf) 
 * 12/04 (Mon) - Project Presentation and Discussion.
 * __**12/06 (Wed) - NO LECTURE.**__
 * __**12/11 (Mon), 12/13 (Wed) - NO LECTURES.**__
