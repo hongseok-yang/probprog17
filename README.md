@@ -25,7 +25,7 @@ We will start five minute earlier on 4 December. On that day, each group will ha
 
 #### [November 27 2017] 3. Project report by the midnight on 6 December (Wednesday).
 
-Each project group should submit a report on what they learnt during the project. We will be happy with short 2-page reports, but if you feel needed, you can use more pages in your report. Please submit your report to the homework submission box in the third floor of te E3-1 building.
+Each project group should submit a report on what they learnt during the project. Short 2-page reports are recommended, but if students in a group think necessary, they can use more pages in their report. Please submit a report to the homework submission box in the third floor of the E3-1 building.
 
 #### [November 22 2017] [Homework 3](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework3/homework3.pdf) is out. Submit your solutions to the TA (Byungsoo) by 2:00pm on 6 December (Wednesday).
 
