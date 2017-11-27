@@ -9,6 +9,24 @@ and to play with it.
 
 ## 1. Important Announcements
 
+
+#### [November 27 2017] 1. No need to submit Homework 3.
+
+You don't have to submit your answers to homework 3. But make sure that you know how to solve the second question in that homework.
+
+#### [November 27 2017] 2. Presentation of group project on 4 December (Monday).
+
+We will start five minute earlier on 4 December. On that day, each group will have to give a 15 minute presentation on their project, and answer questions from other students for 5 minutes. Here is a schedule of presentation.
+
+1. 8:55am - 9:15am on 4 December (Mon) : Jungmin, Juhee
+2. 9:15am - 9:35am on 4 December (Mon) : Ly Le, Minkee, Junoh
+3. 9:35am - 9:55am on 4 December (Mon) : Donghyun, Hyunsoo, Hyunsoo
+4. 9:55am - 10:15am on 4 December (Mon) : Junoh, Sujin, Changwha
+
+#### [November 27 2017] 3. Project report by the midnight on 6 December (Wednesday).
+
+Each project group should submit a report on what they learnt during the project. We will be happy with short 2-page reports, but if you feel needed, you can use more pages in your report. Please submit your report to the homework submission box in the third floor of te E3-1 building.
+
 #### [November 22 2017] [Homework 3](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework3/homework3.pdf) is out. Submit your solutions to the TA (Byungsoo) by 2:00pm on 6 December (Wednesday).
 
 #### [November 19 2017] 1. Project meeting this week.
