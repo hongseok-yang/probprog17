@@ -9,6 +9,9 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [November 30 2017] Homework 1 scoring is completed.
+
+The TA uploaded Homework1 scores on the KLMS. If you have any questions about your score, contact TA (bskim90@kaist.ac.kr)
 
 #### [November 27 2017] 1. No need to submit Homework 3.
 
