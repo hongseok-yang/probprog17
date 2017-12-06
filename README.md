@@ -9,6 +9,10 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [December 7 2017] Final exam schedule.
+
+We follow the schedule arranged by the university. Our exam will happen at 
+2443 in the E3 building, from 9:00 - 11:45 on Monday (11 December).
 
 #### [November 27 2017] 1. No need to submit Homework 3.
 
