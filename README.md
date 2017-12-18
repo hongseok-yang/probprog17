@@ -9,6 +9,10 @@ and to play with it.
 
 ## 1. Important Announcements
 
+#### [December 19 2017] Final exam scoring is completed.
+
+The TA uploaded Final exam scores on the KLMS. If you have any questions about your homework and final exam scores, please visit room 3420 at 2:00~3:00 pm on Tuesday and Wednesday.
+
 #### [December 7 2017] Final exam schedule.
 
 We follow the schedule arranged by the university. Our exam will happen at 
