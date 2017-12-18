@@ -11,7 +11,7 @@ and to play with it.
 
 #### [December 19 2017] Final exam scoring is completed.
 
-The TA uploaded Final exam scores on the KLMS. If you have any questions about your homework and final exam scores, please visit room 3420 at 2:00~3:00 pm on Tuesday and Wednesday.
+The TA uploaded Final exam scores on the KLMS. If you have any questions about your homework and final exam scores, please visit E3-1 building room 3420 at 2:00~3:00 pm on Tuesday and Wednesday.
 
 #### [December 7 2017] Final exam schedule.
 
